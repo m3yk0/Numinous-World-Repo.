@@ -1,0 +1,628 @@
+*REGRAS DE LUTAS E PARTIDAS*
+
+As regras de Lutas e Partidas, comumente conhecidas como "/R2", se referem às situações em On e suas possíveis consequências em Off (como multas ou invalidez por algo escrito errado). 
+O termo "luta" pode se referir a lutas diretamente, partidas, sagas e missões. Ou seja, feitos em On validados, com juízes/supervisão/guia. 
+
+
+Seção: *Desistência e valores*
+- Esta seção cobrirá eventos associados à desistência, que se configura ao jogador aceitar a proposta de entrar em uma luta/partida/missão/saga, mas não estar disponível, seja por vontade própria ou eventos como "cair a luz de casa". Em resumo, cita as punições, por ser antijogo, antiético com os outros jogadores. 
+
+1- qualquer desistência antes do 3 turno perde seu valor padrão de multa.
+
+2 - Qualquer desistência durante ou depois do 4 turno, perde o valor padrão de multa + -3K/-3EXP
+
+3 – Qualquer desistência durante ou depois do 6 turno, perde o valor padrão de multa + -7K/-7EXP
+
+4 – Quando todos os lutadores da luta decidem desistir, ninguém ganha nem paga por nada.
+
+5 – Quando alguém desiste, a luta continua, porém, o desistente não ganha EXP nem ryos, somente a multa.
+
+6- a não ser que a luta tenha somente 2 participantes, entre eles o desistente: A luta encerra, o desistente não ganha pela luta, somente multa. O oponente recebe a quantia normal por perder uma luta.
+
+7 – Caso tenha desistência em luta de 2 participantes entre o primeiro e segundo turno, a luta encerra, porém, ninguém, nem oponente, recebe pela luta, ainda assim, desistente recebe multa.
+
+8 – lutador que desistir no turno onde o oponente realiza um ataque ofensivo ao desistente, perde seu valor padrão de multa + -3K/-3EXP
+
+9- caso a luta fique em espera por mais de 15h, sem haver alguma cena ou situação até o fim do prazo, a luta pode acabar.
+
+10 — Caso a luta exija ficar em espera por mais de 3 vezes, os lutadores e o juiz recebem seu valor padrão de multa.
+
+11-  Ações suicidas contam como desistência, exceto caso tal ação afete diretamente um oponente.
+
+12 — Não pode fazer seu clone te matar, isso conta como desistência, somente caso afete diretamente um oponente.
+
+13-  Caso alguém desista antes de qualquer um enviar a cena, este alguém não é multado, e fica como se nunca tivesse participado da luta/partida. 
+
+~-_____________-~
+
+Seção: *Cancelamento e lutas invalidas*
+- Esta seção enuncia o que invalida uma partida. Não diz a punição pessoal, mas diz o desfecho final sobre o que invalidez trás à todos os participantes. 
+
+1- As lutas com desistência, que tem 2 oponentes, é invalida.
+
+2- Lutas com um só desistente, porém que tenha mais de 2 oponentes, ainda é válida.
+
+~3- lutas que metade dos lutadores desistiram é inválida <Essa regra pode ser desconsiderada ao depender do juiz/supervisor/guia>~
+
+4- lutas e partidas inválidas não citam no "Rank", e seus efeitos, como roubos, ganhos e perdas, são desconsiderados. Exceto ferimentos, estes continuam. 
+
+5- Em lutas inválidas, ninguém recebe o valor de ganhar luta, somente por perder. 
+
+6- Notar que participante de luta/partida usou sua respectiva ficha com informações erradas, gera encerramento da partida, tornando-a inválida.
+
+7- Uma partida só não é invalidada com ficha errada, caso seja corrigida até 1 turno depois de mandar a ficha errada, e não usar os valores ou atributos errados a seu favor. 
+
+8- Lutas que participante usa técnicas incoerentes de lutas podem ser invalidadas. Ex.: usar fascínio que não existe, ou usar de forma errada, ou fascínio que não tem, ou citar o clima/cenário absurdamente a seu favor, citar objetos incoerentes como maquinas do tempo ou armamento alienígena ou algo do tipo, etc.
+
+ ~-_____________-~
+
+Seção: *Relatório de luta/partida*
+- Esta seção determina a necessidade de um relatório de atos feitos em ON e configura como você pode preencher tal relatório corretamente de acordo com cada circunstância. 
+
+Relatório padrão:
+1- no relatório, deve sempre haver tais informações:
+_1- quem ajuizou
+_2- quem precisa ou não de atendimento médico 
+_3 - diagnostico médico resumido 
+_4- Ganhador (ninguém/alguém{nome}/turma{nomes})
+_5- quantia de ryos e EXP que cada lutador recebeu
+_6- Dizer resumidamente como a luta ocorreu (por que ela acabou? Só sobrou 1? Como só sobrou ele? Pode botar a situação do juiz aqui). 
+_5- válido (sim/não{motivo}) 
+_6- Acordos (sim/não, se sim, qual?)
+
+Relatório em caso de acordos (/acordos) em ascensão:
+1.1- Relatório de Caça:
+_1- Todas info. que tem no relatório padrão
+_2- Quem interpretou a bijuu
+_3- Besta espiritual (identificação da bijuu)
+_4- Matador
+_5- Como matou
+_6- Outros lutadores (caso tenha, cite nome e classe)
+_7- valor que os lutadores e o matador ganhou (só quem mata recebe valor de ganhar, ou outros, mesmo vivos, recebem por perder)
+_8- Diagnostico médico dos lutadores (e quem precisa ou não de atendimento)
+_9- válido (sim ou não, diga motivo)
+
+1.2-Em caso de Classe levar Besta espiritual para batalha
+_1- Todas info. que tem no relatório padrão
+_2- Besta espiritual (identificação da bijuu)
+_3- Quem levou (nome do lutador que levou bijuu e a classe que a bijuu reside)
+
+1.3-Em caso de acordo Morte Permanente:
+_1- Todas info que tem no relatório padrão
+_2- seção “Funeral:
+” (cita o nome de quem morreu, caso tenha havido morte)
+_3- Seção "herança":
+Diga com quem/onde o corpo e itens do falecido irá ficar
+_3.1 Isso só pode ser definido caso previamente um indivíduo tenha prescrito sua herança à alguém (/contrato). _3.2 Caso contrário, os itens, corpo, saldo, EXP e dívidas, irá ficar para o assassino. 
+_3.3 Caso o assassino não possa ser definido, tudo, exceto dívidas, irá para o Rei do falecido
+_3.4 O assassino pode se livrar das dívidas, mas se livrará de todo o resto também, caso o crime tenha ocorrido em sigilo (sigilo = fora do Cassino e fora do Mundo On, como recôndito, missões, casas e Reinos), e não tenha deixado quaisquer vestígios para trás. 
+_3.5 O ato de matar um personagem permanente ainda é passível de virar uma missão e o assassino vir a ser procurado/caçado. 
+
+1.4-Em caso de acordo Afeto total
+_1- Todas info. que tem no relatório padrão
+_2- na seção “precisa de atendimento?” cite quem precisa, quais são os ferimentos, e cite que a luta foi afeto total (frise que feridas graves terão sequelas permanentes) 
+
+1.5-Em caso de acordo “Pegar itens”
+_1- Todas info que tem no relatório padrão
+_2- seção “Itens roubados” cite em baixo do nome de cada ladino, o que cada um conquistou do outro ladino (ex: meyko: 1 katana de Naomi, 2 shurikens de Susumo (meyko então roubou tais itens de Naomi e de Susumo em tal batalha))
+_3 Caso haja um ladrão que roubou em um reino com Leis, e os roubados ou testemunhas denunciarem, o ladrão será caçado. Então indique a seção *Cabeça Caçada:* (nome do ladrão, motivo, local, hora, data e marque 1 mês de procurado. _Quem encontrar não receberá nenhum prêmio desde que coloquem a cabeça em exposição no Bingo Book explicitamente_) 
+
+1.6-Em caso de acordo “Roubo de atributos”
+_1- Todas info que tem no relatório padrão
+_2-seção “Atributos Roubados:
+” cite o que cada ladino perdeu e ganhou (ex:
+ Naomi; 1 braço direito de Meyko. Meyko: 1 dedo mindinho da mão esquerda de Naomi)
+
+1.7-Em caso de acordo “Sobrepor”
+_1- Todas info que tem no relatório padrão
+_2- seção “Sobreposto” cite o que cada lutador roubou para si de atributos (ex:
+ Susumo; trocou seu braço esquerdo com o de meyko, Naomi; roubou sem trocar o braço direito de Susumo)
+_3- na seção “precisa de atendimento?” diga que para sobreviver, é necessário comprar uma Marionete-Medicinal que servirá de substituição dos órgãos perdidos. 
+
+1.8-Em caso de acordo “Agarrar”
+_1- Todas info que tem no relatório padrão
+_2- seção “agarrados” cite após o nome de cada ladino, o que cada um pegou (ex: susumo 5 folhas secas de árvore, Naomi 3 pedras pequenas)
+
+1.9-Em caso de acordo “Tiro de trono” 
+1- Todas info que tem no relatório padrão
+_2- seção “Tiro de trono” Diga “E assim, com essa luta,
+_(nome do lutador) (tira ou não tira) O trono de (nome do líder/rei) que foi desafiado”
+
+1.10-Em caso de acordo “Sem algum item/itens selecionados, 0 fascínios, fascínios básicos, fascínios. elementais, fascínios. da classe, somente fascínios. de itens, sem fascínios de itens, pseudo-jinchuuriki”
+_1- Todas info que tem no relatório padrão
+_2- não precisa de informações sobre tais acordos no relatório, somente diga que a luta possuía tal acordo
+
+1.11-Em caso de acordo “aposta total, aposta secreta, única e padronizada”
+_1- Todas info que tem no relatório padrão
+_2- seção “Aposta:
+” diga que “o bolão definindo quanto cada um ganhará virá após o relatório”
+
+1.12-Em caso de acordo “Treino”
+_1- Não faça relatório.
+
+1.13- Em caso de acordo "Roubo de corpo morto", "Roubo de corpo vivo",
+_1 Todas info do relatório padrão
+_2 Seção "Corpo Roubado" diga:
+ 'Quem pegou o corpo de quem, e se o corpo é vivo ou morto (ex:
+ Meyko Ivory pegou corpo vivo de Chaos Uzuki)'
+_3 na seção "como foi" (seção existente) diga como conseguiu pegar o corpo do coleguinha, com o máximo de informações possíveis
+_4 caso seja acordo 'Roubo de corpo morto' aderir seção "Funeral:
+" diga 'Quem faleceu permanente (ex: Chaos Uzuki morreu permanente e Meyko está em posse de seu corpo)'
+
+ 1.14- Em caso de acordo: 'preenchimento de Cards Bancários ON'
+_1 Todas info do relatório de partida
+_2 seção "Cartão" cite os '(cartões bancários reconciliados na partida (nomes))' <caso card bancário seja um "Contrato", então:
+_2.2+Seção "Assinantes" diga:
+ 'Quais ladinos assinaram contratos'
+_2.3 +Seção "Contratos" diga:
+ 'qual categoria do contrato. Se foi assinado ou não'
+
+ 1.15- Em caso de acordo "Eventos"
+_1 Todas info do relatório padrão
+_2 seção "Eventos" diga:
+ 'itens de quais eventos foram permitidos - lista'
+
+ 1.16- Em caso de acordo "Afastamento", "Aproximação"
+_1 Todas info do relatório padrão
+_2 seção "Afastamento" diga:
+ 'distância que oponentes podem ficar longe um do outro''
+_3 Seção "Aproximação" diga:
+ 'Distância que oponentes podem chegar perto do outro'
+
+ 1.17- Em caso de acordo "Objetivo"
+_1 Todas info do relatório de partida
+_2 seção "Objetivo:
+" diga qual era o objetivo da partida, (-o que fazer para ganhar, -o que desclassifica, -Como funciona. Também diga se o objetivo foi comprido ou não)
+
+ 1.18- Em caso de acordo "Recôndito", "Camarote"
+_1 Todas info do relatório padrão
+_2 Seção "Recôndito:
+" 'Pessoas que estavam no grupo (cite o nome de todos os lutadores, juiz e de todos os Staffs presentes no grupo)'
+_3 Seção "Camarote:
+" 'Pessoas extra - (Fora o nome dos lutadores, juiz e Staffs, bote o nome de todos outros quem assistiu a luta (todos outros que estavam no grupo, estando off ou não))'
+
+1.19- Em caso de acordo "Filtro de cena", "Filtro de cena Sinônimos"
+_1 Todas info do relatório padrão
+_2 seção "Filtros:
+" diga:
+ 'lista das palavras proibidas'
+_3 Seção "Filtros de sinônimos:
+" diga:
+ 'Lista de sinônimos proibidos (somente um exemplo sobre um sinônimo já é necessário, ex:
+ "antes" logo, todas palavras sinônimas de "antes" serão proibidas de conter na cena)'
+
+1.20- Relatório Partida
+ 1- No relatório de partida, deve sempre haver tais informações:
+_1 quem Supervisou
+_2 quem participou
+_3 Ryos e EXP que ganha participante ganhou
+_4 acordos (acordo modo on é fixo para relatório partida)
+_5 dizer resumidamente como foi a partida (o começo, o final, quantas vezes supervisor interpretou quem, quantos turnos (enfim, pode botar situação do supervisor aqui)
+_6 válido (sim/não, caso não, motivo)
+_7 quem precisa ou não de atendimento médico
+_8 diagnóstico médico resumido
+
+1.21- Em caso de qualquer acordo de Dados(tentação, decisão, refazer, livre) em partida Modo On:
+_1 Todas info que tem no relatório partida
+_2 seção "Dados:
+" (cite o tipo de dado(/1d00) e se em alguma vez a jogada de dados, afetou a partida<se puder, descreva o como>).
+
+1.22- Em caso de acordo Minimalismo:
+_1 Todas as informações do relatório padrão ou do relatório de partida caso seja uma partida
+_2 Seção "Limites:
+" diga:
+ 'quantia de ações e/ou movimentos máximos"
+
+1.23- Em caso de acordo Suprassumo:
+_1 Todas as informações do relatório padrão ou do relatório de partida caso seja uma partida
+_2 Seção "Maximização:
+" diga:
+ 'quantia de ações máximas permitidas"
+
+1.24- Em caso de acordo Marco:
+_1 Todas as informações do relatório padrão ou do relatório de partida caso seja uma partida
+_2 Seção "Demarcado:
+" diga:
+ 'quantia de ações e/ou movimentos mínimos por rodada"
+
+1.25- Em caso de acordo Sonância:
+_1 Todas as informações do relatório de partida
+_2 Seção "Sonância" diga (quais lutadores encenaram por voz e quais não, também diga se todas as cenas de um participante foram por áudio ou apenas algumas (número))
+
+1.26- Em caso de acordo Chat Disperso e Disperso:
+_1 Todas as informações do relatório de partida ou relatório padrão caso tenha sido no cassino
+_2 Seção "Disperso" apenas cite quantos turnos houveram.
+
+1.27- Em caso de acordo "Alteração livre:
+ Juiz/supervisor"
+_1 Todas informações do relatório padrão de lutas ou partidas
+_2 Seção "Tempo que primeiro juiz ficou:
+" (cite até que turno o primeiro juiz permaneceu na luta)
+Seção: "Tempo que 2º juiz ficou:
+" (cite em qual turno juiz novo entrou e até qual turno ele ficou/até o final)
+_seção: "Tempo que 3º/4º... juiz ficou:
+" (cite tempo que cada juiz ficou caso seja mais de 2 que tenham supervisionado a luta)
+
+1.28- Em caso de acordo "Partida Aberta, partida aberta banidos, partida aberta preferências"
+_1 Todas informações do relatório padrão de lutas ou partidas
+_2 Seção: "Recém-chegados: " (cite o pp de quem entrou depois e em qual turno entrou)
+
+ 1.29- Em caso de acordo "Civilizado"
+_1 Todas informações do relatório padrão de lutas ou partidas
+_2 Seção: "Crimes: " (diga se algum crime foi cometido e qual foi)
+_3 seção: "Tais crimes tiveram solução?:
+" (diga se quem fez, quem organizou e quem ajudou o crime já foram pegos, todos criminosos envolvidos, ou somente meia parte, ou se está sem solução (ninguém foi pego))
+_4 caso houveras crime, novas seções:
+ "Autores" (citando quem foi o infrator), "Pego:
+" (citando se foi pego ou não pelos ANBU), "Multa ou prisão?:
+" (multa ou prisão. Multa= valor padrão de multa. Prisão = 3 a 7 dias obrigatórios de inatividade do jogador em ON)
+
+1.30 Em caso de acordo "Tentação", cite:
+_1 Todas info do relatório de partida padrão
+_2 seção "Tentação:
+" (cite se supervisor encenou por alguém, se sim, quem)
+
+1.31 Em caso de acordo "GTA", cite:
+_1.31.1- Todas info do relatório padrão
+_1.31.2- Crimes cometidos
+_1.31.3- Vítimas afetadas
+_1.31.4- Itens adquiridos, como se estivesse o acordo "Agarrar" ou "Roubo de itens"
+_1.31.5- Consequências (diga se foi visto, está em fuga, ou não, também copie a consequência de seus crimes escritos na /r5 seção GTA)
+_1.31.6- Ryos adquiridos, bote em "ganhos"
+_1.31.7- Vítima extorquida, bote em "Ganhos" o nome da vítima seguido pelo valor a ser subtraído do indivíduo
+_1.31.8- Diga se teve ou não o contrato de sigilo
+_1.31.9- Lembre-se de botar coisas do acordo Civilizado
+_1.31.10- Caso o crime seja invasão de partida, bote no relatório seção: "partida invadida", e cite o que ocorreu, mas, sem citar nomes sobre quem invadiu. Para afirmar que o indivíduo invadiu, peça a assinatura dele, e bote no relatório. Se não houver assinatura, terá que ser o próprio nome.
+
+1.32- Em caso de acordo "Livre de Parasitas":
+_1.32.1- RETIRE a seção "Parasyte" do relatório
+
+1.33- Em caso de acordo "Recluso":
+_1.33.1- Todas indo do relatório padrão
+1.33.2- Na área "Ligações:" Cite se foi Recluso comum ou Recluso Absoluto.
+
+ 1.1.1- acordos não citados aqui significa que não precisam de seções novas, apenas informe quais acordos são.
+
+2- caso tenha sido turma (equipe) contra alguém ou equipe, a equipe só ganha inteiramente (todos integrantes) se todos os integrantes ganharem, caso só 1 integrante esteja vivo, só ele ganhará.
+> ENTRETANTO, os demais da mesma equipe, podem receber o valor de perder + metade do mesmo valor de perder
+
+3- o relatório de luta deve ser feito em até 3 dias após o término da luta, após esse tempo, não tens mais direito de receber pela luta.
+
+4- quem pode fazer o relatório:
+ participantes: qualquer participante que estiver lutando. Juizes: qualquer juiz tanto que esteja ajuizando a luta ou não, pode fazer o relatório. Banqueiros: banqueiros também podem fazer o relatório. ADMs: administradores (°°°) também podem fazer o relatório. 
+
+5- vantagem de lutador fazer relatório 
+Caso um lutador, independente se ganhou ou não a luta faça o relatório de luta, na hora de botar o valor onde cada um ganhou, ele pode botar +300r em seu nome, Sendo assim, lutador que faz relatório tem +300r (somente quem fez) sempre que fizer o relatório de suas lutas. 
+
+6- Vantagem não obrigatória 
+Mas claro, o lutador em questão NÃO precisa botar +300 em seu nome, somente caso queira tal bonificação (OBS: É somente 300r ou 0r, nem mais nem menos que 300 ou zero)
+
+7- Juizes também possuem tal vantagem 
+As regras 5 e 6 citadas a cima também são válidas para juizes, sendo assim Somente lutadores que lutaram na luta e o juiz que ajuizou poderão receber mais pelo relatório (juiz não bota que tem +300r no nome no relatório, mas no card “recebimento” por ser juiz, sim.) 
+
+8- contra-partidas da bonificação 
+Caso o relatório esteja errado Nem lutadores nem juiz tem direito aos +200r. 
+
+9- O relatório de partida/luta/missão, poderá ser feito até 120 horas após o término da partida, devendo ser enviado ao grupo Banco o mais rápido possível. 
+
+10- Os relatórios não feitos no prazo de três dias, mas posteriormente — Ninguém, nem participantes, nem juiz, irá ganhar Ryos — Mas ainda será válida e retornará EXP. 
+
+~-_____________-~
+
+Seção: *Juízes nas lutas / Seção "Atuação do Julgador, Supervisor e Guia"*
+- Esta seção é uma instrução que todo juiz/Julgador, guia de missões, supervisor, mentor/Sensei, devem seguir:
+
+3- juízes não podem recusar por ajuizar uma luta. Caso recuse, deverá pagar multa de seu valor padrão 
+
+4- juízes que recusam lutas pagam multas em seu valor padrão. Porém, se um dos participantes da luta já tiver algum histórico de desistência, o juiz pagará somente a multa nível 1. 
+
+5- caso juiz recuse lutas de um desistente por mais de 3 vezes, receberá multa do seu preço comum 
+
+6- Agendamento de juízo:
+juízes não podem recusar lutas, mas podem agendar um horário em que estarão disponíveis, desde que tal horário seja em menos de 48 horas (2 dias) do momento que pediram para ajuizar. Mais da metade dos interessados devem concordar com o horário marcado. 
+
+7- um juiz pode passar a luta para outro juiz caso não consiga fazer na hora. O outro juiz também receberá multa por recusar mas também pode agendar. 
+
+8- caso dê a hora do agendamento, os lutadores chamarem o juiz (estarem esperando) e o juiz não aparecer em até 30min do tempo agendado, receberá multa no seu valor padrão. 
+
+9- um juiz pode deixar uma luta em espera por até 15 horas, após isso, a luta é encerrada. Os lutadores e juizes não ganham nada pela luta nem perdem dinheiro. 
+
+10- um juiz pode deixar uma luta em espera somente 3 vezes. Caso exija uma quarta vez, a luta se encerrará e tanto os lutadores como juiz não receberão pela luta, mas levarão multa de valor mínimo. 
+
+11- Deve existir um motivo lógico, sem ser pessoal, para invalidar lutas.
+
+12- caso juiz invalide uma luta durante ou depois do 4° turno, os participantes recebem somente o valor por perder, e o juiz recebe o valor por ajuizar. Por ser inválida, luta não valerá no Rank. 
+
+ 13- caso a luta seja entre 2 juízes, não precisa de outro para ajuizar , mas, pode colocar se quiser.
+
+ 14- lutas de juízes sem juiz, todas as decisões tomadas ambos juízes devem estar de acordo.
+
+ 15- juízes que lutarem contra outros juízes e ambos estiverem ajuízando, não receberão por ser juiz, somente por lutar.
+
+ 16- juiz sempre deve buscar saber se os lutadores têm feridas não curadas. 
+Caso lutador tenha ferida não curada, e o juiz não diz uma Situação Momentânea alertando as condições médicas do indivíduo, poderá levar multa, ou não receber por ajuizar tal luta.
+
+17- caso tenha lutadores feridos não curados;
+ juiz deve fazer uma situação inicial no começo ou até o final do primeiro turno explicando qual lutador tem quais feridas.<regra valendo p lutas e partidas>
+
+18- juiz pode pedir para algum médico;
+ lhe dizer oque cada ferida pode causar, e a consequências que não tratar por determinado tempo (1 luta, 2 lutas sem tratar etc.) causa ao lutador.
+
+19- juiz pode pedir esse relatório médico sobre o paciente para algum médico, e deverá botar tais informações na situação inicial.
+
+20- juiz não necessariamente precisa se um relatório feito por médicos sobre o que o lutador ferido tem, o próprio juiz pode decidir oque cada ferimento irá causar de desvantagem ou não para o lutador (deve ser de acordo com a realidade).
+
+21- duração de névoa cenográfica 
+Seguindo a regra 9 da seção “Demais regras” da regra “Regras de lutas” os juizes quem podem decidir se uma névoa ou obstrução visual cenográfica realmente daria certo. Sendo assim, as 100% cenografias (cachoeiras) ficaria a luta toda, e as que o lutador tem culpa por criar (jogar areia, punhado de folhas p/ alto, etc.) devem durar apenas 1 turno. 
+> ENTRETANTO: Como sempre, apresentar cálculos realistas, verídicos nas cenas, podem sim quebrar esta ou demais chamadas ‘regras de acontecimentos’. Tal qual, se jogou um grande barril de areia, a 10M do chão, as partículas ficarão por um longo período, definido pela velocidade dos ventos, umidade do local, peso dos grãos, movimentos na área, temperatura da área, etc.)
+
+22- juizes sobre ações em 2+ mensagens 
+Seguindo a regra 4 da categoria “refazer/invalidar rodadas ou ações” da regra “regras de lutas e partidas” caso lutador mande uma ação, em seguida outra em outra mensagem, juiz deve decidir entre aceitar a primeira ou nenhuma. 
+
+23 - SITUAÇÃO 
+A cada final de Turno, antes de iniciar um novo para os jogadores enviarem sua próxima rodada, deve ser escrita pelo Supervisor/Julgador/Guia uma "Situação de Momento". Ao início:
+- Situação Inicial: nome de todos os participantes, ID dos jogadores, grupo, data, horário de início do portal, contextualizar os acordos em ascensão (parasitas, valores, apostas, etc.), estado físico inicial de cada sujeito e Ambientação. 
+- Situação Momentânea: situações após o início e antes do final do portal. Citar o andamento da partida até aqui, tratar as possíveis invalidades e infrações para um enredo aceitável (ex.: Ladino aparece com um poder magnífico que não existe, juiz então corrige na situação deste turno que isso não ocorreu). Citar se portal está válido ainda, condições físicas e Backgrounds. 
+- Situação Final: um resumo sobre a partida, estado dos envolvidos, Backgrounds adquiridos, mudanças na ficha como itens ganhos ou quebrados/roubados, etc. 
+
+24 - VALORES EXPLÍCITOS: AOS JULGADORES, SUPERVISORES E GUIAS: Em todas as "SITUAÇÃO DE MOMENTO" (Situação inicial, situação Momentânea, situação final) — deve ser esclarecido quantos Ryos e EXP cada indivíduo ganhará pela partida. Este valor pode ser alterado de acordo com acontecimentos em ON (como ser roubado ou roubar dinheiro, então o nome de tal Ladino terá um valor diferente de recebimento dos demais), ou pode ser alterado por infrações (como receber multa por ficar 24h sem cenar, quantia a receber será descontada pela multa, e pode ficar negativa também). 
+Ex.: Matsuki Senko está em estado bem. Lucro da partida: 3K/2EXP (-24% Ryo/ −0,5EXP por ter demorado). Okkotsu Zuky: estado grave. Lucro da partida: 3K/2EXP (+220r, pois roubou um NPC).
+Não é necessário botar isso nas situações caso o acordo "Valor Inconcusso" esteja em ascensão, pois o lucro será fixo para todos. Mas claro, há casos de mesmo com tal acordo o lucro mudar, então deve estar explícito o novo valor.
+
+~-_____________-~
+
+Seção: *refazer/invalidar rodadas ou ações*
+- Esta seção configura o que torna uma cena inválida, e o que pode-se fazer caso sua cena seja inválida. 
+
+1- uma rodada pode ser invalidada caso tenha algum erro ou algo do tipo, tal erro deve ser especificado pelo juiz.
+
+2- uma cena pode ser refeita caso, no primeiro turno, alguém tenha tido permissão para refazer uma cena que contenha o mesmo erro (ou seja, se na primeira rodada alguém esqueceu o negrito, ela poderá fazer novamente na primeira rodada. Se ocorrer novamente por uma outra pessoa, essa outra pessoa pode fazer novamente. Caso o erro seja cometido 2x pela mesma pessoa, a rodada pode ser invalidada) 
+
+3- Erros de “portogês” e o que fazer 
+De acordo com a regra 13 da seção “Demais Regras” da regra “Regras De Lutas” Caso juiz não entenda o que está escrito na cena, ele pode pedir para refazer quantas vezes quiser, assim como pode invalidar a ação ou até mesmo a rodada toda caso tenha um erro de português, tal decisão depende do juiz, alguns interpretam, outros pedem para refazer/ explicar e outros cancelam as cenas com erros de ortografia , português, etc.. Na duvida, evite tais erros. 
+
+ 4- uma rodada, uma mensagem 
+Todas as cenas, ações, movimentos etc. devem ser postos em uma só mensagem, uma rodada é uma mensagem com as ações de um ladino, após ele enviar sua primeira ação em uma mensagem, não pode, em seguida, complementa-lá em outra mensagem logo após, sua rodada deve ser inteiramente composta em uma mensagem (pode separar por parágrafos, usar métodos de cenas, etc., só não mandar 2 cenas de uma vez)
+
+~-_____________-~
+
+Seção: *demais regras de cenas*
+- Esta seção é fundamental, cobrindo assim uma gama de erros que não podem serem cometidos em cenas. 
+
+1- Duração de todos os clones
+Clones duram somente 2 turnos após serem criados, no final do segundo, serão dissipados.
+
+2- Fichas erradas 
+Caso mande uma ficha com informações erradas (itens, EXP, ryo etc.) estará sujeito a levar multa, ser expulso da partida, ou até ter a partida inteira encerrada e invalidada. 
+
+3- Acordos inexistentes 
+Um acordo deve existir para você deve ser bom nisso, para jogar. Caso não especifique tem risco da sua ação não valer, é lembre-se da regra de respeitar a decisão dos juízes.)
+
+17- Noummin faz só 2 clones, após eles morrerem não pode fazer de novo , apenas se for de outro elemento (crio 2 de água, eles morrem, e crio 2 de terra). Workin 3, Maxin 5 (siga ao pé da letra esse número. Risco de ter ações invalidadas caso ultrapasse)
+
+ 18- Portal:
+O portal é uma mensagem que tem campos contextualizando que irá ocorrer uma interpretação e suas configurações. Toda partida/luta válida necessita de um portal válido. Os campos do portal são: 
+- Cenário/Arena (Aqui você deve descrever com detalhes o  cenário onde seus personagens irão basear a maior parte de sua participação na partida. É passível o uso de imagens de paisagens) ;
+- Supervisor/Juiz (Nome do juiz/supervisor da partida. Caso sejam Opostos cite "juízes Opostos");
+- Acordos (Sempre diga quais acordos do /acordos, estão em ascensão na partida, ou "nenhum")
+- Distância (A distância condiz com a distância inicial entre todos os participantes, algo que serve para contextualizar a posição de cada personagem, pontos se referência, etc. Essa área pode ser anulada em casos avançados onde os jogadores se ambientam em sua própria cena)
+- Ordem (A ordem é uma lista numerada que cita todos os personagem que irão participar da luta/partida. Condiz com quem deve enviar a cena antes de quem (Ex: Ordem: 1- Meyko, 2- Akaza. Logo, Akaza só pode enviar sua cena caso Meyko já tenha enviado sua própria cena pela ordem do juiz) 
+- Outros: Há outros campos que podem surgir com acordos, além de campos que podem serem removidos com acordos, como o campo "Ordem" sendo substituído por "Participantes" em caso de acordo de envio de cenas sem ordem.
+
+19 - Nunca se esqueça de ativar seu ornous ou outro tipo de fascínio que exija ativação.
+- Personagens da classe Zuky ou Tsuki, ou todos usuários Ornous, até mesmo outros fascínios como manipulação de magnetismo, devem ser ativados explicitamente em cena, antes de usar propriamente as Conjurações ofertadas pelo fascínio dependente. Ou seja, diga que ativa seu Ornous Zuky antes de botar alguém em hipnose com tal Ornous. Ao contrário, o uso do fascínio dependente da ativação, sem a própria ativação prévia em alguma rodada, será inválida a conjuração. 
+
+ 20- roubar itens da mão de oponentes usando cintilação corporal ou derivados é proibido, assim como atacar com cintilação corporal. Use somente como defesa e movimento.
+(nós queremos contar com um jogo limpo que não tenha desigualdade, pelo fato de fascínios derivados de cintilação corporal serem muito rápidos, atacar e roubar itens com eles foram proibidos. Risco de invalidação)
+
+ 21 - Princípios 
+Princípios são, em tese, a base de uma boa cena. São questões básicas de estrutura textual e coesão onde condiz em "Onde", "Como", "Quando" e "Consequência" em cada ato. Os princípios são as primeiras coisas que você deve pensar para colocar em sua cena, mas claro, muitos tem receio desta regra, com estas novas (21, 22, 23), você tem mais liberdade em suas cenas. 
+
+ 22- moldar melhor sua cena 
+Você não precisa usar os princípios necessariamente em suas cenas, ou melhor, não precisa deles colados nas cenas. Você pode usar um método de encenação famoso, que é fazer a cena primeiro, explicar depois. Com isso, você faz sua cena ex: ação1; “jogo kunai” =inválida (sem onde, como, quando, consequência) mas se explicar no final da mensagem “na ação 1 joguei uma kunai que estava no meu bolso, em direção ao chão, a 1M a minha frente, logo após começar a batalha para demarcar o local” = vai ser válida.
+
+23- resumindo cenas com princípios posicionados 
+Sendo assim, com as regras 21 e 22, você tem liberdade de fazer uma ação inválida de principio, porém (tudo com negrito, claro) no final de sua mensagem como uma cena a parte, você explica o que fez em tal ação inválida, podendo assim, valida-lá a parte (tudo na mesma mensagem)
+
+24- Juiz saindo da partida 
+Caso juiz saia da partida ou fique off, ambos lutadores se juntam para decidir um horário que irão esperar (mínimo 30min, max 15H). Após o prazo o juiz não voltar, a luta se encerra, ficando inválida como se não tivesse acontecido. Ainda juiz levará multa no seu valor padrão. 
+
+~-_____________-~
+
+Seção: *Saúde*
+- Esta seção idealiza a saúde dos personagens, configurando como agir diante uma saúde negativa ou não. 
+
+1- Lutar 3x seguidas
+Caso lute por 3 vezes seguidas sem ir ao hospital (tal como só desmaiar) na 4ª vez, deverá ir ao hospital.
+> ENTRETANTO: Caso você encerre partidas sem nenhum ferimento, cujo nenhum confronto, não desmaiou, não encostaram em você, não fez atividades intensas, não é necessário ir ao hospital após as 3 lutas. Ou seja, somente vá ao hospital, caso tenha tido ferimentos acumulados.
+
+2- Ferimentos se acumulam.
+ferimentos não tratados se acumulam, tal como ser desmaiado 3x, na 4ª luta sem cura usuário será afetado como se todos os golpes fossem dados de uma só vez no começo da luta, podendo causar traumatismo craniano. Ou por exemplo cortar um dedo e não curar, na próxima luta, o dedo pode infeccionar.
+
+3- Diga quando está ferido.
+No começo de uma luta, onde o lutador houve lutas e ferimentos não curados antes dessa luta, o usuário deverá deixar Explícito — Entre o primeiro e o segundo turno — ou até dizer ao juiz colocar em situação momentânea — que tem feridas não curadas, e a quanto tempo não são curadas.
+
+4- Pena para quem oculta feridas 
+Lutadores que omitirem que estão feridos sem tratamentos, poderão levar multas ou ter lutas inválidas.
+
+5- Risco de morte 
+Caso não apareça no hospital 4 lutas/missões sem ir ao hospital, personagem corre risco de morte permanente do pp.
+
+7- Ir ao hospital
+sempre que você se ferir gravemente o bastante para sangrar ou ficar fora de batalha, deve ir ao hospital diretamente.
+
+8- Novatos e hospital 
+Novatos só vão ao hospital para curar tratamentos de batalhas ou checapes, novatos não podem ir para hospital para agendar transplantes ou quaisquer outras atividades médicas, isto é permitido somente após pp do novato estar 7 dias no RPG.
+
+
+9- Módulo de tratamento 
+> Ao ser encaminhado para o hospital, por algum problema, o problema pode ser tratado por
+9.1- 1> NPC: 
+O tratamento por NPC, ou tratamento automático, é a forma de um tratamento rápido, feito "de qualquer jeito". Dados:
+9.1.1- Como: Paciente recebe tratamento de NPC caso em 24 horas após ficha de entrada ser preenchida, indivíduo não ser atendido por médico real. 
+9.1.2- Regeneração: isso agrega "80%" de regeneração (forma figurativa) condizendo que, Ladino só terá +1 feito em on disponível. 
+9.1.3- Consequência: Este 1 único feito em on disponível, também é diferente; é um feito em on absoluto, que gasta de qualquer forma válida de cena (missão, luta, partida comum). Mesmo que jogador não tenha se ferido na partida, o passe de 1 feito livre, ainda é gasto. 
+9.1.4- Condição: Para isso, além de não ser atendido em até 24h, é necessário que o paciente NÃO esteja em estado Gravíssimo. 
+9.2- 2> JOGADOR
+9.2.1- Como: É o método comum de cura. Ficha do paciente é encaminhada ao hospital, e, em até 48 horas após isto, algum jogador médico escreve uma cena, realizando a cura do paciente. 
+9.2.2- Regeneração: 200%, +3 feitos ON livres
+9.2.3- Consequência: Os 3 passes, são gastos somente caso haja ferimentos nas partidas (missões não gastam o feito ON pelo módulo cura de jogador)  
+9.2.4- Condição: Todos têm direito, e até recomendação preferível, de serem atendidos por um médico Jogador. 
+
+10- CITE NA FICHA O MÓDULO DE SEU ÚLTIMO TRATAMENTO 
+> Deve ser citado na ficha, em relação a área "quantia de feitos em ON restantes", a área *"Atestado"* dizendo qual módulo foi tratado (NPC/JOGADOR) e o dia da saída do hospital. 
+
+~-_____________-~
+
+Seção: *Modo on - Regras*
+- Esta seção configura uma partida que não é uma luta, distanciando como uma partida não-luta pode ser válida. 
+
+1- para uma saga do modo on ser válida;
+É necessário haver no mínimo 2 turnos
+
+2- dentre estes 2 turnos, é infelizmente aderido a no mínimo 1 destes turnos, um mínimo de 20 linhas (769 caracteres)
+_curiosidades: WhatsApp em suas configurações padrão, conta com cerca de 35 caracteres por linha_
+
+3- é exigido de todos os participantes o mínimo de linhas (caracteres/letras que devem formular palavras que formulem frases) dentre um dos 2 primeiros turnos de uma saga/partida em On
+
+4- As 20 linhas podem ser tanto em negrito (atos) como em tracinho💬- (falas) e também til💭~ (pensamentos). Porém, não podem ser 20 linhas em itálico (casuais/anuladas/zoadas) <, na verdade, pode haver itálico, porém, se numa cena, só houver inteiramente itálico e mais nenhuma outra parte com 20 linhas fora do itálico, então seria invalido, >
+
+5- Há outras formas de tornar uma partida não-luta válida, descartando as regras das linhas. Estas outras formas são 5:
+ 5.1- botar algum(ns) dos seguintes acordos:
+ dados: tentação, dados: Refazer, dados: decisão, dados livres, tentação.
+
+ 6- caso os acordos sejam postos, a partida passa a ser válida sem a regra de no mínimo 20 linhas nos primeiros 2 turnos. Porém, continuará com a regra de que se deve haver no mínimo 2 turnos da partida para que ela seja válida.
+
+7- Em casos do juiz encenar como outro ladino da partida; 
+sempre que um juiz for escrever a cena de outro ladino, de forma errada, que fique inválida, logo, tudo que o ladino fará, será ficar parado.
+
+8- Encerramento de partida
+ - Você decide quando a partida acaba. Ou pelo menos, todos envolvidos decidem juntos. Sempre que você quiser acabar uma partida, você simplesmente deve citar em on que termina sua jornada de hoje. E também dizer em OFF, para o juiz, que quer encerrar sua participação na saga.
+
+9- Desistência e saída
+ - É importante reforçar a diferença entre desistir de uma partida, e igualmente, encerrá-la.
+ - Uma desistência vem quando o jogador Explícita a desistência, e ainda antes dos 2 turnos primários da partida, serem concluídos.
+- Agora, caso deseje sair da partida após o segundo turno, e dizer que a encerra ao invés que desiste, logo, é considerado encerramento e não desistência. 
+Encerrar/sair da partida é algo válido, que deve ser dito em cena. 
+
+10- Encerrar partida multiplayer
+- Uma partida com mais de 1 ladino na interação, desconsiderando o supervisor, só acaba quando todos os participantes explicitarem Desistência ou Conclusão/Encerramento da saga.
+- Sempre que um Ladino entra ou saí de uma partida, é necessário o supervisor citar uma situação momentânea contextualizando tudo até o momento. 
+
+11- implemento a regra 9
+ - Caso haja 3 participantes numa partida, e o primeiro participante desistiu antes do final do segundo turno, e o segundo participante concluiu após 4 turnos, a partidas só será absolutamente encerrada, quando o último participante citar conclusão ou desistência. No caso, segue além dos 4 turnos. - [Sendo assim, na SITUAÇÃO feita pelo supervisor, e igualmente no relatório da partida, deve conter as informações sobre em qual turno cada ladino foi embora, até o último ladino igualmente ir embora].
+
+ 12- Partidas agora, também sobem nível! 
+A cada 2 partidas, você consegue +1 nível.
+
+13- valor das partidas 
+- Uma partida tem um ganho fixo de EXP e Ryos por cada patente, destacados no banco. 
+
+ 14- sagas com ladinos de patentes variáveis, vale cada um sua respectiva patente, ao invés de um preço fixo de variável que seria comum em lutas.
+
+ 15- Portal de sagas
+ - O portal de uma saga, é montado de uma forma levemente diferente ao portal de uma luta. No caso, seriam 5 informações: Cenário, Supervisor, Acordos: Modo On, Distância, Ordem
+
+16- é capaz de ocorrer até 2 partidas modo On, no mesmo grupo (isso se todos envolvidos de ambas partidas, incluindo os supervisores, estão de acordo)
+
+17- Regra falsa Caso alguém roube as regras de lutas e partidas para usar em outro RPG, saiba que foram roubadas de um RPG cujo o dono é meico (nome semelhante ao original) contate-o, por favor. 1, 1, 9, 3, 4, 5, 5, 2, 4, 4, 4 (retire os espaços e vírgulas)
+
+17- A maneira mais fácil de validar Cards Bancários on (CBO), é fazer partidas com o acordo "Preenchimento de C.B.O", cujo assim que os envolvidos num CBO, se reconciliam sobre estarem envolvidos em tal card bancário on, a partida pode acabar.
+
+18- Uma partida fica válida, mesmo que mais da metade dos participantes iniciais, saiam antes do fim do jogo. Diferente das lutas, cujo caso mais da metade saia, fica invalido, as partidas podem ficar com somente 1 pessoa no final, que será válida para ela.
+
+19- Multas:
+ 19.1 Pessoas que forem desclassificadas antes do segundo turno, não levam multa. 
+19.2 Pessoas que forem desclassificados após o primeiro turno, levam multa (e caso seja em momento de ataque, será maior igualmente as lutas)
+
+ 20- A partida só encerra, quando, em ON, todos finalmente citarem que a partida foi encerrada.
+
+21- Numa partida com 3 pessoas, caso a primeira, em sua cena, diga "Partida encerrada", a partida não será encerrada a todos, mas sim, a pessoa que primeiro digitou isso, em quanto os que ainda não digitaram, continuarão na partida até digitarem.
+
+ 22- digitar "partida encerrada" antes dela ser válida gera multa ao participante ou risco de toda sua participação ser anulada. 
+
+23- Caso indivíduo esteja participando em algo importante com outros jogadores e venha a ficar offline (impossibilitado de jogar), então o supervisor pode interagir como o indivíduo, seja em Cena ou em Situação
+
+24- Supervisores só podem agir como um outro personagem caso sejam minimamente do nível 2 de seu cargo. Além disso, não devem fazer nada que o personagem real já naturalmente não iria fazer. 
+
+~-_____________-~
+
+Seção: *Regras supervisor*
+
+1- Sempre que um participante da partida, encerre sua participação, o supervisor deve fazer uma situação momentânea, e nela, citar a saída do participante como se fosse a situação final, porém, com a partida em continuação em seguida.
+
+2- Sempre que supervisor encenar por alguém, ele deve escrever o nome do ladino cujo está interpretando e do lado, escrever entre colchetes a palavra supervisor.
+- {Ex: "ladino Tal (Supervisor)". Ou ao menos reforçar no começo da mensagem, que o supervisor está agindo por outro alguém}.
+
+3- Junto ao nome de quem está sendo interpretado, no começo da mensagem, antes de escrever a cena, o supervisor deve citar o motivo pelo qual ele está a encenar por um participante.
+ - {Ex: "ladino Tal (Supervisor). Motivo: errou no princípio quando na ação 3, assim acarretando numa cena com elementos inválidos, possibilitando a entrada do supervisor na cena, já que há o acordo tentação em ascenção"}.
+~-_____________-~
+
+*Supervisor e acordos*
+
+1- Se uma partida houver acordos:
+ dados: tentação
+- O supervisor pode encenar pelo ladino que tirou 50 ou acima, de qualquer ponto da cena de quem o supervisor está a interagir.
+ - {(Ou seja, caso participante tenha feito tais atos: 1- saído de casa, 2- matado um monstro, 3- casado; o supervisor pode encenar tanto antes da ação 1, 2, 3, como após a ação 1, 2, 3)}.
+
+ 2- Se uma partida houver acordos: Tentação
+- O supervisor deve encenar no lugar do ladino, exatamente do primeiro ponto cujo foi inválido.
+- {(ou seja, caso ladino tenha encenado:
+ "1- Saio de casa, 2- desbloqueio Rinnegan do nada, 3- caminho por aí", logo, supervisor encenará antes do ato invalido, que no caso, seria o Rinnegan, levando o supervisor a encenar assim que o primeiro ato acabe e antes que o segundo e terceiro comece)}.
+
+ 3- Se uma partida houver acordos:
+ dados: decisão
+- O supervisor deve fazer uma situação assim que a rolagem de dados cair de 50 para cima, num turno ou rodada de alguém. E assim, na situação momentânea, citar o que o ladino iria fazer em uma cena, citar o que, na verdade, aconteceu (e talvez o motivo e como foi a proposta).
+ {Ex: "Ladino: enceno que caminhos até o deserto para colher belas flores de cactos raros. Me garanto que levo todos os suprimentos básicos para tal jornada." 'Supervisor ou terceiros ou oponentes: ok, porém, caso caia de 50 p cima = você não terá levado os suplementos básicos'. 'Bot:
+ caiu em 51!'. "Situação momentânea do supervisor: 'o ladino esperava fazer tal e tal coisa. Porém, fez/deixou de fazer tal. No caso:
+ O ladino esperava ir ao deserto procurar flores e levar suplementos básicos. Porém, chegou ao deserto e notou que esqueceu dos suplementos <proposta feita por oponente/.. Esqueceu os suplementos, pois dado caiu acima de 50"}
+
+4- Se uma partida houver acordos: dados: refazer
+ - Supervisor deve fazer uma situação sempre que uma rodada ou turno, for refeito. Nesta situação momentânea, é necessário resumir quem refez, o que havia afeito antes e o que fez de novo agora que a cena teve que ser refeita do 0. E citar uma opinião do supervisor se acredita que realmente alguém refez corretamente, ou não, uma cena.
+{considere refazer, um ato de contar uma história diferente da que você iria contar agora. Pelo menos, neste turno/rodada}
+~-_____________-~
+
+*SEÇÃO: INATIVIDADE - AFK*
+- Essa seção trata de casos "AFK", que significa ficar ausente, inativo no RPG. 
+
+1- Quantia da multa 
+		Quando indivíduo fica 7 dias sem realizar atividades ON, nem faz algum emprego, nem interage no cassino, ele perde 1% de seus ryos. Isso se acumula até o final do mês, retirando 4% dos ryos do indivíduo por mês inativo. 
+
+2- Multa por AFK
+		 Este preço é acumulativo, até chegar ao fim do mês, 4%, 4 semanas inativas. Ao fim do mês, banqueiro pode decidir por retirar 4%, ou 2.000 ryos do indivíduo (normalmente é 2K para facilitar a vida do coitado)
+
+3- Como ser ON
+		As atividades que deve-se fazer ao menos 1x por semana, para evitar ser considerado inativo:
+3.1- atividades ON válidas (Lutas, missões, partidas, caças à bijuus)
+3.2- Eventos e torneios
+3.3- Atividades ON casuais (partidas, lutas, cenas inválidas casuais, tal qual algo no cassino ou até mesmo no treinamento ou gp principal)
+3.4- Atividade bancária (compras, presenteamentos, jogos no cassino, etc)
+3.5- Empregos (médico, forja, cassineiro, etc) 
+3.6- Conversas com mais de 3 indivíduos em qualquer grupo de fala do RPG (inclusivas) 
+3.7- Trabalhos Staff (criar regras, divulgar, zelar o grupo, etc) 
+
+4- Ficar inativo em atividades ON 
+		Esse agravante é considerado como desistência. Ao não dar sinal de vida quando algum trabalhador (Sensei, Guia, Treinador, Supervisor, Juiz, etc) diz para dar sinal de vida, e indivíduo não responde, é multado pelo preço da desistência, e atividade on pode até ser encerrada e até anulada a depender do contexto. 
+
+5- Inatividade de correspondência por Cards Bancários
+		Existem alguns Cards bancários que dependem de múltiplos indivíduos para serem validados ou não no banco (como pedido de casamento, pode exemplo). 
+  > Quando um card destes é enviado por alguém, mas os demais que precisam, não preenchem o card em até 3 dias, card pode ser considerado Anulado. 
+
+6- Ghost refaz treinamento 
+		Indivíduo que ficar mais de 1 mês off no RPG, pode vir a ser listado no card de Treinamento Básico, e deve concluí-lo novamente. (Treinador recebe por, nestes casos) 
+
+7- Refazer treinamento 
+	indivíduo por mais de 2 meses off no RPG, Sensei pode bota-lo novamente para realizar o treinamento avançado (teste de desempenho). Sensei ganha por tal feito.
+
+8- Recompensa por se enturmar com players AFKs
+	Sempre que um indivíduo ON jogar com algum indivíduo que estava no mínimo 1 mês off, indivíduo que já era ON, pode receber +1K pela atividade com o outro indivíduo (caso seja uma luta com diversos indivíduos Off e 1 On, o on receberá 1K a mais por cada off que cenou com ele)
+
+9- Declarar Ausência 
+	Caso você não possa ficar algum tempo no RPG, e se preocupa a que não fique AFK, isto é facilmente contornado com um aviso prévio de ausência a algum dos ADMs, dizendo o prazo estipulado de ausência
+
+10- Atividades AFK
+		Quando atividades que ocupam algum grupo, sejam válidas ou não, como Missões, Partidas, Treinamento, Teste de desempenho, Lutas, Sagas, etc. Durarem mais do que 3 dias, ADM (°°°) e juízes(guias, treinador, interpretador, Sensei) nível 2+, Pode encerrar a tal em qualquer momento, como também botar em espera (todos com autorização de ADM)
+
+
+
+(/r2)
