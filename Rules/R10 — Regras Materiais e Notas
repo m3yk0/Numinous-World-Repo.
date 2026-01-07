@@ -1,0 +1,1000 @@
+Regras
+
+
+
+/r10 
+
+
+
+Regra de itens e materiais
+
+Seção: Categoria de itens
+
+
+	1> Para sua ficha ser válida, e igualmente o juiz, supervisor e/ou guia, poder rapidamente saber quais itens vc pode ou não levar/quais estão em ascensão, categorize-os
+
+	2> Considere em alguns casos, “itens” como sinônimo de coisas, algo, objeto, materiais, etc.)
+
+	3> Caso não queira botar o selo do tipo de item, pode simplesmente botar o selo da categoria.
+
+4- CATEGORIA 1: PADRÕES
+
+> Selo da categoria: Ƥ
+
+4.1- Itens da loja
+   (itens do /loja, /insetos, /habilidades) 
+	Selo: Ⓛ
+
+5-	CATEGORIA 2: CASUAIS:
+	Selo da categoria: C̲̅
+Itens casuais podem ser os que não são válidos em todos os casos, e você não tem muito bem uma forma de processá-los no banco
+
+5.1- Itens pegos de missões
+   (seja dados, ou guardados pelo personagem durante missão. Pode usar em missões caso guia deixe) 
+	Selo:  ⓜ
+
+5.2- Itens pegos do emprego
+   (tal como um anbu ter uma máscara anbu) 
+	Selo: Ⓔ
+
+5.3- Itens do cassino
+   (do cardápio ou casualmente pegos do cassino) 
+	Selo: Ⓒ 
+
+5.4- itens do personagem/vestimenta
+   (vestimenta, colar) 
+	Selo: ⓥ
+
+
+6- CATEGORIA 3: EVENTOS:
+> Selo da categoria: E̲̅
+
+6.1- Itens de Eventos
+   (itens pegos em eventos como os de halloween, Natal, etc, que valem somente com acordo Evento)
+	Selo: ⒠
+
+7- CATEGORIA 4: TORNEIOS:
+> Selo da categoria: T̲̅
+
+7.1- itens de torneio
+   (itens dos torneio chunnin ou jounnin. São considerados válidos e pode usar mesmo sem acordo Eventos) 
+	Selo: Ⓣ
+
+8- CATEGORIA 5: PRÓPRIOS:
+> Selo da categoria: P̲̅
+
+8.1- itens junção 
+   (itens que são únicos por serem juntados na forja. Cite tb o tipo e subtipo de cada item q foi juntado p virar 1 só)
+	Selo: ⓙ
+
+8.2- itens agarrados
+   (itens cujo em lutas ou partidas com o acordo Agarrar, você, antes da turnação acabar, guardou com si, e isto foi processado no banco
+	Selo: ⓐ
+
+9- SUBCLASSE:
+Adicione o selo da subclasse do item, ao lado do selo da categoria
+
+9.1- itens roubados
+   (itens da loja ou de outras categorias, porém roubados de outros ninjas) 
+	Selo: 🆁
+
+9.2- itens doados 
+   (itens que um ninja te deu de presente)
+	Selo: 🅳
+
+;;;;;;;;;
+
+
+SEÇÃO: CATEGORIA DE MATERIAIS
+
+0 – Lista das informações que cada item terá: 
+  Cor comum nos itens, 🌊Densidade, 🌡️Ponto de fusão/Ebulição/Solidificação/Combustão, 🔛Elasticidade, 🌀Flexibilidade, 💎Dureza, 💪Resistência(suporte), 💧Casos de umidade, ⚖️peso, ⚡Condutividade Elétrica/🧲Magnética/ 🔥Térmica, 🎯Tensão, 🔮Refração, 🔦Reflexão, 👃odor, 👂Eco (som), ❓Curiosidade.  
+
+0.1-	Explicando cada atributo:
+
+0.2	> Cor comum nos itens: 
+	 Se diz a que cor este material se encontra na maioria das vezes quando compõem os itens da loja
+
+0.3	> 🌊Densidade:
+- Quão pesado algo é em comparação a uma médica de unidade 
+- Tem capacidade de boiar sob a água ou afunda-se nela 
+❓Curiosidades:
+🌊Densidade também se diz boa resistência. Baixa densidade se diz baixo teor de umidade, são melhores isolantes térmicos
+
+0.4 > Ponto de fusão/Ebulição/Solidificação/Combustão/:
+0.4.1- Geral – Quantos graus algo pode suportar antes de deixar de ser o mesmo material que antes
+0.4.2- Ponto de Fusão – Em quantos graus algo passa do estado sólido para líquido, e líquido para sólido 
+0.4.3- Ponto de combustão – (algo que se incendeia mesmo quando um calor gerado externamente, cessa)
+0.4.4 - Ponto de ebulição – (ponto de temperatura do líquido virar vapor) 
+ 0.4.5 >  ❓Curiosidade:
+- Propriedades de seu volume aumentam quando algo passa do estado solido para líquido 
+- O nível de pressão do ambiente que o material está, pode diferenciar seu ponto de fusão 
+- O calor gerado por algo, tende a aumentar até atingir o ponto de fusão/combustão/ebulição
+
+0.5	> 🔛Elasticidade:
+ 1- capacidade do material voltar a sua forma original uma vez retirada as cargas aplicadas <São medidos em temperatura ambiente>
+2- O quão algo pode se esticar sem se romper <aguentar alta 🎯Tensão se compara a isto>
+> ❓Curiosidades:
+- Altas temperaturas tende a diminuir o módulo de elasticidade para Quase todos os materiais. 
+- GPa: Quanto maior o módulo de elasticidade, MAIS rígido é o material ou MENOR é sua deformação elástica quando aplicada uma 🎯Tensão (ou seja, GPa altos são menos moldáveis, deformaveis. E igualmente, caso consiga deformar, será mais difícil de voltar ao estado que estava antes<lembre-se que informamos este número em consideração a temperatura ambiente comum>)
+- PSI= pressão resultante da força de uma libra-força aplicada a uma área de uma polegada quadrada. Sinônimo de LIBRAS, KGF e BAR [assim como °C sinônimo de °K], significam Pressão. 
+  Na elasticidade, se diz a pressão necessária para sofrer a distorção <esta informação pode não estar presente em todos materiais>
+
+0.6- > 🌀Flexibilidade:
+1- Quanto algo é flexível, cujo pode sofrer deformação sem se romper 
+❓Curiosidades:
+- pedaços grossos possuem menos flexibilidade do que os finos
+- Uma alta flexibilidade garante uma deformação aceitável antes que venha a ruptura. 
+
+0.7- > 💎Dureza:
+1- Quanto impacto este algo pode suportar sem se romper 
+2- Durabilidade de algo 
+3- Macio ou duro, tem capacidade de riscar algo ou ser riscado por algo mais duro
+> ❓Curiosidades:
+- Algo muito duro, as vezes é menos flexível, o que significa que deformar algo duro é mais fácil de se quebrar do que coisas menos duras, flexíveis
+- Pode ser medida em JANKA (para madeiras), MOHS (escala de dureza dos minerais), BRINELL (para materiais abrangentes), KFG (para outros materiais), etc.
+> MOHS de 0.0 a 10.10 Ou 0 a 1.600 (um mineral de número maior sempre vai riscar os de número menor) 
+> Seguimos com a dureza mecânica para a maioria dos materiais, e a dureza mineralogista para os minerais.
+Há vários contextos da dureza. - Na metalurgia a dureza se diz a resistência à deformação plástica permanente.
+- Na mecânica se diz a resistência à penetração de um material duro no outro.
+- Para um projetista, é uma base de medida para conhecer a resistência mecânica e o efeito do tratamento térmico ou mecânico num metal.
+- Para o técnico de usinagem, é a resistência ao corte do metal sendo maior ou menor dificuldade de usinar um metal é caracterizado como maior ou menor dureza.
+- Para um mineralogista, é a resistência ao risco que um material pode produzir em outro.
+Significando que a dureza não é uma propriedade absoluta. Só há sentido falar em dureza quando se compara materiais, isto é, só existe um metal duro se houver outro mole.
+> Há vários métodos de atestar a dureza, sendo alguns deles: 1- Dureza por risco (escala de Mohs), 2- Dureza por choque ou rebote (usando escala de Shore) (Medido pela energia utilizada para deformar um determinado corpo). 3- Dureza por penetração, sendo usado as escalas de dureza Brinell, Rockwell, Vickers e Microdureza Vickers. 	(3.1 Escala Brinell = Consiste em comprimir lentamente uma esfera fortificada sobre superfície plana de algum metal atestado. Considerando a carga durante um tempo, produzindo uma calota esférica. Dureza representada pelas letras HB (Hardness Brinell). HB = relação entre cerca aplicada e área da calota esférica impressa no material atestado.
+	 3.2- Dureza Rockwell = Uma pressão é feita num determinado material atestado, a profundidade da impressão produzida pela carga é a base de medida Rockwell. Materiais que se deformam mais com a pressão, são mais moles do que materiais que tem uma impressão rasa feita pela carga. Seu símbolo é HR. normalmente pode apresentar a letra N ou C (HRC/HRN) cujo C significa que a testagem foi feita na forma comum, e N numa forma mais minuciosa. (50HR15N = algo tem dureza de 50 Rockwell). Pode haver também as letras A, D, B, E, F, G, H, K e T. Cujo cada se refere ao método/maquinário usado para atestar a dureza de algo.
+	3.3- Dureza Vickers. Simbolizada por HV, se diz a uma pressão num material atestado notando a marca deixada, sendo feita com um quadrado ao invés de uma esfera. 3.4- A microdureza Vickers consiste no mesmo projeto,  porém, com pressões de ⚖️peso muito baixo, deixando apenas marcas microscópicas no algo atestado)
+
+0.8	- > 💪Resistência:
+	1- Se diz ao quanto algo pode ser tensionado (sofrer tensão/Pressão, estresse) sem se quebrar 
+❓Curiosidade:
+ - A resistência é muito ligada a 🌊Densidade. + denso = + resistente
+- KN = Kilonewton, sinônimo de KGF (kilo grama força). 1kN=100kgf. Quanto maior for  “KN Suportado” ou “KGF Suportado” (kilo grama força suportado), maior será a resistência, (mais ⚖️peso será suportado) sendo este número o indicador de ⚖️peso/pressão/🎯Tensão que algo aguenta antes de se romper. 
+
+0.9	- > 💧Casos de umidade:
+	1- Se diz ao quão pesado este algo fica quando está úmido 
+2- Se diz ao o que ocorre quando há secura neste material 
+3- Se diz se absorve ou como reage em contato com líquido como água
+❓Curiosidades:
+ Secura demais agrega ao estado quebradiço de alguns materiais (algo queimado que esfarela)
+- Algo mais úmido ou menos úmido pode afetar a densidade para mais ou para menos.
+
+0.10 - > ⚖️peso:
+1- Quão difícil é eguer este material 
+2- Quão leve é este material em relação a outros materiais estruturais.
+❓Curiosidades:
+- ⚖️peso tem um tanto haver com a 🌊Densidade. 
+
+0.11- > Reação ⚡elétrica, 🧲Magnética, 🔥Térmica: 
+1- Se diz ao quão bom este material conduz eletricidade 
+2- Quão alto é o campo eletromagnético deste material, e qual sua reação a campos magnéticos 
+3- Quão facílmente o calor ou frio atravessa e se espalha pelo material 
+❓Curiosidades:
+ – Quando materiais em nível alto de úmidade, passa a ser boa condutora elétrica.
+
+0.12 - > 🎯Tensão
+1- força por unidade da área. A unidade de medida pode ser basicamente as mesmas para unidades de medida de resistência
+2- As vezes pode representar o potencial elétrico de dois pontos, é a força necessária para movimentar os elétrons criando uma corrente elétrica. A unidade de medida para este, é volt(V)
+❓Curiosidade:
+A tensão tem muito a ver com a resistência. Aguentar maiores tensões é uma resistência boa. A propriedade de se deformar é melhor que a propriedade de ruptura
+
+0.13 - > 🔮Refração:
+1- Se diz ao quanto de luz entra no material 
+2- Se diz ao quanto a luz que entra no material, é espalhada
+3- Fenômeno óptico que mostra o comportamento da luz perante seu ambiente.
+4- A refração modifica a velocidade de propagação e o comprimento da onda.
+> ❓Curiosidades:
+A refração, pode ser um exemplo sobre colocar um lápis dentro de um copo de água e poder notar que a parte que não está na água e a que está, sofrem distorção, (cujo a parte que fica na água em relação a este meio ambiental da luz, o lapís pode ampliar de tamanho e ter sua trajetória distorcida da parte fora da água).
+– Quanto maior a refração, mais significa que caso este material fosse um líquido transparente como a água, mais um lápis a ser botado neste líquido iria se distorcer entre a parte seca e a parte submersa.
+– A refração difere da reflexão, pois na refração, ocorre alteração nas características da onda.
+
+0.14 - > 🔦Reflexão/brilho:
+1- Se diz ao quanto e quão brilhosa é a luz do material 
+2- Se diz ao quanto de luz de origem externa é refletida quando joga luz de origem exata em direção a este material
+>❓Curiosidades:
+Reflexão pode se basear em diversos as aspéctos. 1- Na psicologia é sobre pensar sobre um tema. 2- Na física é o fenômeno que corresponde à mudança de direção ou sentido de propagação física. 3- Na matemática é a transformação geométrica. 4- Na programação é capacidade de um programa administrar sua estrutura. 5- Difusão - reflexão que as ondas cursam sentidos diferentes após a reflexão. 6- Especular - reflexão em que as ondas cursam sentidos iguais após a reflexão, 7- Na acústica, se diz ao eco de um som, 8- Reflexão de nêutrons - materiais que refletem nêutrons, usados em reatores nucleares, 9- Reflexão Sísmica - as ondas geradas por terremotos e explosões, por exemplo..
+– Nesta regra, nós vamos nos basear pela reflexão física, que consiste no retorno da energia incidente em direção a região iluminada numa superfície refletora.
+– A lei da reflexão diz que durante a reflexão especular o ângulo que é incidente é igual ao ângulo que é refletida. Espelhos exibem reflexão especular.
+– Reflexão se manifesta como ondas através de partículas. Por isso, a reflexão tem um caráter eletromagnético ou mecânico.
+–  Um princípio de óptica geométrica é que a luz tende a viajar em busca do caminho menor de traçado. E, mesmo que ela tenha que desviar, este desvio é feito no trajeto mais curto possível. Este é o princípio de Heron. 	Mais tarde, Fermat anunciou de forma semelhante, mas dizendo que a luz busca o tempo mais curto ao invés da distância percorrida. Este é o principio de Fermat.
+– A reflexão especular é como um espelho, reflete algo com nitidez. Já a difusa, sete energia, perdendo a imagem.
+
+0.15 - > 👃odor:
+  1- Se diz o cheiro de algo ser mais ou menos percebível de longe do material 
+   2- Se diz ao quão único é o cheiro, podendo identificar mais facilmente o material pelo seu 👃odor liberado. 
+  > ❓Curiosidade: Umidade alta = 👃odor alto
+– A maioria dos seres soltam feromônios, são estes, hormônios sexuais que ativam a líbido através do aroma de excitação liberado por nós.
+– O odor foi crucial para preservação das espécies, pois é através dele que se pode captar a presença da fêmea, inimigos ou presas.
+
+0.16 - > 👂 Eco(som)
+1- Se diz a capacidade de bloquear ou transmitir som receptado. 
+Não é eficiente em bloquear transmissão de som alheio <o som é melhor receptado em materiais com espaços de camadas de ar>.
+2- Se diz ao som quando 2 materiais iguais se atritam
+3- Se diz ao quão fácil é identificar o emissor do som, ou seja, o material somente pelo seu som. 
+>❓Curiosidade: A propriedade de barreira acústica está diretamente relacionada ao ⚖️peso do material
+2- A velocidade e nitidez da propagação de ruídos pode váriar conforme a densidade e a temperatura do ambiente em que as ondas se propagam 
+
+SUBSEÇÃO: OS MATERIAIS
+> Na subseção acima foi listado as informações que cada material pode ter. Nesta subseção de baixo, lista quais materiais você poderá conhecer mais por ter tais informações.
+– A criação desta regra foi feita cuidadosamente. As informações aqui podem se dizer de uma generalização. Tal qual, uma madeira da árvore Pau-Brasil tem densidade diferente da Eucalípto. Porém, aqui foi medido a densidade de ambas (ou várias) e estabelecido uma média geral.
+– A média geral pode estar mesclada também com informações de um tipo especifico do material. Ou seja, em quanto a densidade da madeira pode ser uma escala média entre todas, seu 👃odor presente pode ser representado por algum tipo especifico de madeira. 
+– Em todos os casos, as informações aqui foram minuciosamente trabalhadas e checadas para que você possa usá-las como referência até mesmo da vida real. É importante na vida, por exemplo, saber qual ponto de combustão da madeira e qual ponto de fusão do vidro. Tais informações podem te ajudar em estudos e até empregos, como também no dia a dia, suas experiências prevenindo que algo aconteça ou não analisando os ótimos conhecimentos obtidos aqui.
+
+1-	Todos os materiais que formulam os itens da loja, são listados aqui. A propriedade de cada material então será citada.
+
+2- Materiais que são feito os itens da loja:
+
+  2.1- Matéria-prima Vegetal:
+
+2.1.1 – Madeira
+> Cor comum nos itens: Marrom-escuro
+> 🌊Densidade: 1,53g/cm2 [g/cm3 = grama por centímetro cúbico] // 0,55DEb  
+> 🌡️Ponto de Combustão: 225°C  <Aos 100° começa a evaporação e secura, já enfraquecendo o material>
+> 🔛Elasticidade: 17GPa (GPA= Gigapascal = Módulo de elasticidade ou Young=) 1,7psi 
+> 🌀Flexibilidade: 12% = bom (pedaços grossos possuem menos flexibilidade do que os finos) // 100FEe <Uma boa flexibilidade garante uma deformação aceitável antes que venha a ruptura, boa flexibilidade é uma boa capacidade de aguentar alguma deformação sem se romper, quebrar>
+> 💎Dureza: 1.000Janka // boa, alta durabilidade, não macia. (Janka= unidade de medida de quilograma X força; sinônimo de kgf) 
+> 💪Resistência(suporte): 9kN – 19KN - / boa
+> 💧Casos de umidade: incharcado=40% a mais de ⚖️peso, úmido=20% do peso, dias comuns=10% do peso. Secura=-10% do peso. Secura também agrega a quebradiço (algo queimado que esfarela) <pode afetar a densidade> 
+> ⚖️peso: 500kg por m3 (0,5g/cm3) <pode afetar a densidade>. É leve em relação a outros materiais estruturais. 
+> ⚡Condutividade Elétrica, 🧲Magnética, 🔥Térmica: eletric: não-condutor <isto quando seca. Quando úmida passa a ser boa condutora elétrica igualmente a maioria dos materiais que não são impermeáveis>, magnétic: não-magnético, térmic: ótimo isolante térmico <isolante em todos os casos>
+> 🔮Refração: 1
+> 🔦Reflexão/brilho: muito pouco refletor 
+> 👃odor: médio(umidade padrão. Umidade alta = 👃odor alto), 👃odor reconhecível. 
+>  👂Eco(som): Não é eficiente em bloquear transmissão de som alheio <ou seja, é boa na absorção de som graças a camadas de ar>. Seu som próprio é baixo mas também reconhecível. <A barreira acústica está diretamente relacionada ao ⚖️peso do material> 
+> ❓CuriosidadeCuriosidade:
+É 80% volátil, cujo é um material/químico/fluido que tem a propriedade de evaporar em condições muito fáceis. Materiais altamente voláteis, é a mesma coisa que materiais altamente inflamáveis. 
+
+2.1.2- PAPEL
+Papel Kraft – 🌊Densidade: 0.6 a 0.8 g/cm³ - Baixa
+Papel Kraft – ⚖️peso: Leve 75g/m2. Espessura de 0,3mm
+Papel Kraft – 🔛Elasticidade: Baixa (E=2600Mpa)
+Papel Kraft – 🌀Flexibilidade: Média/Baixa
+Papel Kraft – 💎Dureza: Baixa 50 N/m 
+Papel Kraft – 💪Resistência: Baixa/Média – 10 kPa
+Papel Kraft – 💧Casos de umidade: Sensível à umidade
+Papel Kraft – ⚡Condutividade Elétrica: Isolante
+Papel Kraft – 🔥Condutividade Térmica: Baixa
+Papel Kraft – 🧲Magnetismo: Não magnético
+Papel Kraft – 🎯Tensão: Baixa – Tensão de tração 6 cps de 8x0,2 mm2 . (ops = ligações por segundo (Calls Pers Second))
+Papel Kraft – 🔦Reflexão: Baixa
+Papel Kraft – 👃odor: Neutro. Mas pode apresentar cheiro se usado as partículas de perto.
+Papel Kraft – 👂Eco/Som: Ecológico/Silencioso
+Papel Kraft – 🌡️Ponto de ebulição: Não aplicável (decompõe-se)
+Papel Kraft – 🌡️Ponto de combustão: Aproximadamente 230 °C
+Papel Kraft – 🌡️Ponto de solidificação: Não aplicável (sólido em temperatura ambiente)
+Papel Kraft – ⭕Fórmula: Não tem uma fórmula química definida, pois é composto de celulose, lignina e outros componentes naturais da madeira.
+>	❓Curiosidades: Papel pode ser mais duro que grafite, pois é o papel que risca o grafite, com grafite abandonando suas partículas, assim criando o rastro da marca.
+
+2.1.3- ARGILA 
+Argila – 🌊Densidade: variável, entre 1 e 3 g/cm³ dependendo do tipo e da umidade
+Argila – 🌡️Ponto de fusão: não possui ponto de fusão fixo, a argila é um material não cristalino e funde-se gradualmente à medida que é aquecida
+Argila – 🔛Elasticidade: baixa 0,1 a 10 Map 
+Argila – 🌀Flexibilidade: baixa quando dura e alta quando úmida
+Argila – 💎Dureza: baixa, geralmente abaixo de 3,5 na escala de Mohs
+Argila – 💪Resistência: baixa, frágil quando seca
+Argila – 💧Casos de umidade: altamente higroscópica, absorve facilmente água
+Argila – ⚖️peso: variável, entre 1 e 3 g/cm³ dependendo do tipo e da umidade
+Argila – ⚡Condutividade Elétrica: baixa, é um isolante elétrico
+Argila – 🔥Condutividade Térmica: baixa, é um isolante térmico
+Argila – 🧲Magnetismo: baixa, é um material diamagnético
+Argila – 🎯Tensão: baixa
+Argila – 🔦Reflexão: baixa. Dependendo do acabamento, vem de 4% a 40% refletância da luz para argila escura e para argilas mais claras.
+Argila – 👃odor: geralmente in👃odoro quando está duro. Pode ter cheiro de terra em alguns 💧Casos de umidade.
+Argila – 👂Eco/Som: baixa
+Argila – 🌡️Ponto de ebulição: não possui ponto de ebulição fixo, a argila se decompõe gradualmente à medida que é aquecida
+Argila – 🌡️Ponto de combustão: varia entre 350 e 500 °C
+Argila – 🌡️Ponto de solidificação: não é aplicável, a argila não se solidifica como os materiais cristalinos
+Argila – ⭕Fórmula: variável, mas geralmente contém silicatos de alumínio, além de outros minerais e elementos traços.
+
+
+2.1.4- CARVÃO VEGETAL
+ – 🌊Densidade:  460 kg m-³ (Baixa, devido sua porosidade) 
+ – ⚖️peso: 509kg m-³ (leve devido sua baixa Densidade) 
+ – 🔛Elasticidade: Baixa. É um material rígido 
+ – 🌀Flexibilidade: Não flexível 
+ – 💎Dureza: frágil (2 mohs) 
+ – 💪Resistência: É resistente a compressão mecânica 
+ – 💧Casos de umidade: apresenta 5% de umidade, podendo absorver até 20% da umidade. 
+– ⚡Condutividade Elétrica:  Isolante elétrico caso seco. 
+ – 🔥Condutividade Térmica: 30W/m-k (alto condutor térmico) — Poder calorífico: 4650 kcal kg
+– 🧲Magnetismo: Não magnético 
+ – 🎯Tensão: n/a
+– 🔦Reflexão: Não reflete contundentemente a luz. 
+ – 👃odor: Odor característico. Quando em chamas, pode ser ressaltado. 
+– 👂Eco/Som: Não ecoa, mas tem som característico de rocha
+– 🌡️Ponto de ebulição: Se decompõe antes de entrar em ebulição. 
+ – 🌡️Ponto de combustão: Alto. se decompõe rapidamente em temperaturas acima de 700°C. Sua brasa pega com temperatura de 300°C.
+ – 🌡️Ponto de solidificação: Sólido em temperatura ambiente. 
+– ⭕Fórmula: carbono, hidrogênio, metano e oxigênio (CH4, 
+>	❓Curiosidades: A duração da chama pode chegar até 8 horas, queimando a 400°C.
+— Geralmente, o carvão é quimicamente inerte e não reage facilmente com outras substâncias, tornando-o adequado para armazenamento a longo prazo.
+— O carvão vegetal é altamente poroso devido à liberação de gases durante a carbonização. Essa porosidade o torna eficiente na adsorção de substâncias, sendo usado em filtros de água e tratamento de gases. Assim o carvão ativado se torna um ótimo. Filtro para gases e água. 
+— O carvão vegetal tem sido usado historicamente como combustível e para produzir aço em processos de Siderurgia.
+
+
+2.2- METAIS/MINERAIS:
+
+2.2.1- OURO 
+Ouro – 🌊Densidade: 19,3 g/cm3
+ Ouro -  🌡️Ponto de fusão: 1.064 °C
+ Ouro – 🔛Elasticidade: 78.4 X 10³ Mpa
+ Ouro – 🌀Flexibilidade: macio e maleável 
+Ouro – 💎Dureza: 2,5 mohs
+ Ouro – 💪Resistência: 2,5 mohs
+Ouro – 💧Casos de umidade: Ouro não absorve água, um tanto impermeável 
+ Ouro – ⚖️peso: 1 onça Troy ou 31 gramas 
+Ouro – ⚡Condutividade Elétrica: bom condutor 
+ Ouro – 🔥Condutividade Térmica: bom condutor 
+ Ouro – 🧲Magnetismo: não é atraído por qualquer imã
+ Ouro – 🎯Tensão: ? 
+Ouro – 🔦Reflexão: Reflete luz
+Ouro – 👃odor: não emite cheiro forte 
+Ouro – 👂Eco/Som: um condutor mediano de ondas sonoras. 
+Ouro – 🌡️Ponto de ebulição: 2.700 °C
+Ouro – 🌡️Ponto de combustão: none
+ Ouro – 🌡️Ponto de solidificação: abaixo de 1.064 °C
+Ouro – ⭕Fórmula: Au
+
+2.2.2- FERRO 
+Ferro – 🌊Densidade: 7,87 g/cm³
+Ferro – 🌡️Ponto de fusão: 1.538 °C
+Ferro – 🔛Elasticidade: 211 GPa
+Ferro – 🌀Flexibilidade: rígido, não muito flexível
+Ferro – 💎Dureza: 4 mohs
+Ferro – 💪Resistência: 350 Mpa (para o ferro fundido cinzento)
+Ferro – 💧Casos de umidade: pode enferrujar em contato com a umidade
+Ferro – ⚖️peso: 7870 kg/m³
+Ferro – ⚡Condutividade Elétrica: bom condutor de eletricidade
+Ferro – 🔥Condutividade Térmica: bom condutor de calor
+Ferro – 🧲Magnetismo: é altamente magnético
+Ferro – 🎯Tensão: depende do tipo e da aplicação do ferro
+Ferro – 🔦Reflexão: reflete luz
+Ferro – 👃odor: sem 👃odor perceptível
+Ferro – 👂Eco/Som: é um bom condutor de ondas sonoras
+Ferro – 🌡️Ponto de ebulição: 2.862 °C
+Ferro – 🌡️Ponto de combustão: não é inflamável
+Ferro – 🌡️Ponto de solidificação: 1.538 °C
+Ferro – ⭕Fórmula: Fe (Ferro)
+
+2.2.3- DIAMANTE:
+Diamante – 🌊Densidade: 3.5 – 3.53 g/cm³
+Diamante – 🌡️Ponto de fusão: ~3,500 °C
+Diamante – 🔛Elasticidade: 1050-1200 GPa
+Diamante – 🌀Flexibilidade: Não flexível, frágil
+Diamante – 💎Dureza: 10 (máxima na escala de Mohs)
+Diamante – 💪Resistência: Muito alta resistência à deformação e fratura
+Diamante – 💧Casos de umidade: Insensível à umidade
+Diamante – ⚖️peso: Médio a pesado
+Diamante – ⚡Condutividade Elétrica: Muito alta
+Diamante – 🔥Condutividade Térmica: Muito alta
+Diamante – 🧲Magnetismo: Não magnético
+Diamante – 🎯Tensão: Alta
+Diamante – 🔦Reflexão: Muito alta reflexão de luz. Índice refrativo de 2 418 (em 500 nm).
+Diamante – 👃odor: In👃odoro
+Diamante – 👂Eco/Som: Não ecoa som
+Diamante – 🌡️Ponto de ebulição: > 4000 °C
+Diamante – 🌡️Ponto de combustão: Queima apenas em presença de oxigênio
+Diamante – 🌡️Ponto de solidificação: Não possui, passa diretamente do estado líquido para sólido.
+> ❓Curiosidades: É um mineral nativo, sendo a forma alotropica do carbono, com estabilidade de pressões acima de 6GPa 
+ (ou seja, comprima átomos de carbono triangulares com forte pressão para se obter tal joia preciosa). 
+
+2.2.4 — MISHMETAL
+Mishmetal - 👁️Aparência: Pedra preta metálica 
+Mishmetal - 🌊Densidade: 6,9g/m³
+Mishmetal -🔛 Elasticidade:  200GPa
+Mishmetal - 🌀Flexibilidade: Rígido 
+Mishmetal - 💎Dureza: 1,8mohs (baixa) 
+Mishmetal -💪 Resistência: 300MPa (semelhante ao ferro)  macio e quebradiço. 
+Mishmetal - 💧Casos de umidade: Continua reativo. Insolúvel. 
+Mishmetal -⚖️ Peso: Mais leve que o aço. 
+Mishmetal -⚡ Condutividade Elétrica: BOA 1,15 x 10^6 S/m. Isso é comparável à condutividade elétrica do alumínio 
+Mishmetal -🔥 condutividade Térmica: faixa de 16 a 30 W/m·K. É um moderado condutor de calor, semelhante ao aço inoxidável.
+Mishmetal -🧲 Classificação magnética: É atraído por magnetismo 
+Mishmetal -🎯 Tensão: N/A
+Mishmetal - 🔦Reflexão: Reflete luz devido sua natureza metálica 
+Mishmetal - 👃Odor: Pouco - Característico de metal
+Mishmetal - 👂Eco/Som: Não é bom isolante acústico. Produz som de ferro ao atrito. 
+Mishmetal -🌡️ Ponto de ebulição: N/A
+Mishmetal -🌡️ Ponto de combustão: 150°C
+Mishmetal -🌡️Ponto de solidificação: sólido em temperatura ambiente 
+Mishmetal -🌡️ Ponto de fusão: 850°C
+Mishmetal -⭕ Fórmula: família dos elementos Lantanídeos. Ce+La+Nd+Pr. Chamado também de Ferrocério ou Auermetal. 
+Mishmetal -❓ Curiosidades: Na indústria metalúrgica, o Mischmetal é utilizado em processos de remoção de impurezas do aço.
+— O material é altamente reativo a fricção. Logo, raspar sua pedra produz fogo
+— É altamente reativo com a água e o ar. Quando exposto ao ar, pode oxidar-se rapidamente, gerando calor e emitindo faíscas luminosas. Isso o torna útil em pedras de isqueiros, onde atua como um iniciador de faísca.
+— Usado também em fabricação de baterias recarregáveis do tipo níquel-hidreto metálico
+
+2.2.5 — ZINCO:
+ – 👁️Aparência: branco-azulado quando puro - pátina acinzentada quando exposto ao ar. 
+ – 🌊Densidade:7,14g/cm³ a 20°C
+ – ⚖️peso: médio/pesado. O metro cúbico pesa cerca de 7.140KG
+ – 🔛Elasticidade: bastante elástico.
+ – 🌀Flexibilidade: não é tão maleável. 
+ – 💎Dureza: 2,5
+ – 💪Resistência: resistencia mecânica moderada contra corrosão. 
+ – 💧Casos de umidade: altamente oxidável, cria camada de óxido de zinco. Não absorve. 
+– ⚡Condutividade Elétrica: média. 
+ – 🔥Condutividade Térmica: média 116 W/(m·K)
+– 🧲Magnetismo: pode se tornar eletromagnético. 
+ – 🎯Tensão: alta tensão - necessita de grande força para deformar permanentemente. 
+– 🔦Reflexão: alta reflexão, bom como revestimento e galvanização. 
+ – 👃odor: Sem odor característico
+– 👂Eco/Som: som atravessa
+– 🌡️Ponto de ebulição: 900°C
+ – 🌡️Ponto de fusão: 420°C
+ – 🌡️Ponto de solidificação: abaixo de 400°C
+– ⭕Fórmula: Zn30
+>	❓Curiosidades: consegue bloquear radiação ultravioleta.
+- zinco é um elemento químico essencial para o corpo humano: intervém no metabolismo de proteínas e ácidos nucleicos, estimula a atividade de mais de 100 enzimas, colabora no bom funcionamento do sistema imunológico, é necessário para cicatrização dos ferimentos, nas percepções do sabor e olfato e na síntese do DNA.
+— A deficiência de zinco pode produzir retardamento no crescimento, perda de cabelo, diarreias, impotência sexual e imaturidade sexual nos adolescentes, apatia, cansaço e depressão, lesões oculares e de pele, inclusive acne, unhas quebradiças, amnésia, perda de apetite, perda de peso e problemas de crescimento, aumento do tempo de cicatrização de ferimentos e anomalias no sentido do olfato.
+— O óxido de zinco é o mais conhecido e utilizado industrialmente, especialmente como base de pigmentos brancos para pintura, também na indústria de borracha e em protetores solares. Outros compostos importantes são o cloreto de zinco (desodorantes) e sulfeto de zinco (pinturas luminescentes).
+— O sulfato de zinco (ZnSO4) tem aplicação na indústria têxtil e no enriquecimento de solos. O cloreto de zinco é usado para preservar madeiras.
+
+2.2.6- COBRE ELETROLÍTICO 
+— 👁️Aparência: metálico vermelho-alaranjado. 
+ – 🌊Densidade: A densidade do cobre a 20 ºC é 8,92 g/mL. A densidade da água na mesma temperatura é 1,00 g/mL. 
+ – ⚖️peso: 
+ – 🔛Elasticidade: 12.000(kg/mm²) 
+ – 🌀Flexibilidade: Altamente maleável 
+ – 💎Dureza: 2,5mohs
+ – 💪Resistência: 4.500(kg/mm²) boa 
+ – 💧Casos de umidade: 
+– ⚡Condutividade Elétrica: 101(%IACS) ALTA (possui a melhor condutividade elétrica entre todos os elementos) 59,6*10^6 S/m
+— ⚡Resistividade
+Elétrica: 1,710µΩ cm
+ – 🔥Condutividade Térmica: 398W/m.k. ALTA Condutibilidade
+Térmica a 20 °C
+(cal/cm/cm²/
+seg °C): 0,94. — 🔥 Caloria: 0,092 cal/g
+– 🧲Magnetismo: PODE VIRAR ELETROMAGNÉTICO
+— 🧲 Classificação Magnética: Diamagnetico
+ – 🎯Tensão: Baixa 
+– 🔦Reflexão: Reflete bem
+ – 👃odor: sem odor característico. 
+– 👂Eco/Som: Som médio /alto ao atingido. 
+– 🌡️Ponto de ebulição: 2.562C
+ – 🌡️Ponto de combustão: N/A
+ – 🌡️Ponto de solidificação: Sólido em temperatura ambiente 
+— Ponto de fusão: 1.083°C 
+– ⭕Fórmula: Ligas ASTM/UNS C11000 - CU29 - Metal
+>	❓Curiosidades: Há grandes concentrações de cobre no cérebro e no fígado. Em certos organismos chega a assumir o papel do ferro em integrar moléculas responsáveis pelo transporte de , o que inusitadamente confere a esses animais um sangue de coloração azulada. 
+— Todos os compostos de cobre deveriam ser tratados como se fossem tóxicos; uma quantidade de 30 g de sulfato de cobre é potencialmente letal em humanos. O metal em pó é combustível, inalado pode provocar tosse, dor de cabeça e dor de garganta. 
+— Ele pode encontrar-se como Cu(I), Cu(II), Cu (III) ou Cu (IV). Cu (I): diamagnético, Cu (II): cobre d9, paramagnético, Cu (III): cobre d8 paramagnético, Cu (IV): cobre d7 é muito raro.
+
+
+
+2.3-	MATÉRIA PRIMA ANIMAL:
+
+
+2.3.1- COURO:
+Couro – 🌊Densidade: variável, dependendo do tipo de couro e processo de fabricação, geralmente entre 0,9 e 1,4 g/cm³.
+Couro –🌡️Ponto de fusão: o couro natural não tem um ponto de fusão definido, mas pode se degradar e queimar a temperaturas elevadas.
+🔛Elasticidade: alta elasticidade e capacidade de deformação. Com 30% de elasticidade
+Couro –🌀Flexibilidade: alta flexibilidade e capacidade de adaptação a diferentes formatos. 
+Couro –💎Dureza: depende do tipo de couro, mas em geral apresenta dureza média. 70 Shore 
+Couro –💪Resistência: alta resistência a rasgos e desgaste, mas baixa resistência à umidade e a agentes químicos.
+Couro –💧Casos de umidade: o couro natural é sensível à umidade e pode mofar ou apodrecer se não for devidamente cuidado.
+Couro –⚖️peso: variável, 1,05 g
+Couro –⚡Condutividade Elétrica: baixa ⚡Condutividade Elétrica.
+Couro –🔥Condutividade Térmica: baixa condutividade térmica.
+Couro –🧲Magnetismo: o couro natural não é magnético
+Couro –🎯Tensão: alta capacidade de suportar tensão e resistir a deformações permanentes. 
+Couro –🔦Reflexão: o couro natural apresenta reflexão difusa.
+Couro –👃odor: apresenta 👃odor característico.
+Couro –👂Eco/Som: pode produzir som ao ser flexionado.
+Couro –🌡️Ponto de ebulição: o couro natural não tem um ponto de ebulição definido, mas pode se degradar e queimar a temperaturas elevadas.
+Couro –🌡️Ponto de combustão: o ponto de combustão varia de acordo com o tipo de couro, geralmente entre 250 e 400°C.
+Couro –🌡️Ponto de solidificação: o couro natural não tem um ponto de solidificação definido, mas pode se tornar mais rígido a temperaturas baixas.
+
+2.3.2- PENA:
+Pena – 🌊Densidade: baixa 1,3 g/cm³
+Pena – 🌡️Ponto de fusão: não se aplica, não é um material com ponto de fusão definido
+Pena – 🔛Elasticidade: alta  3 a 5 GPa
+Pena – 🌀Flexibilidade: alta  
+Pena – 💎Dureza: baixa 2 Mohs
+Pena – 💪Resistência: baixa  1,5 a 2,5 GPa
+Pena – 💧Casos de umidade: pode ficar pesada e prejudicar a habilidade de voo  
+Pena – ⚖️peso: leve  0,1 a 0,5 gramas
+Pena – ⚡Condutividade Elétrica: baixa  
+Pena – 🔥Condutividade Térmica: baixa 
+Pena – 🧲Magnetismo: não é magnético
+Pena – 🎯Tensão: baixa 
+Pena – 🔦Reflexão: pode refletir a luz de acordo com a sua textura e cor
+Pena – 👃odor: pode ter um 👃odor característico, dependendo da espécie de ave
+Pena – 👂Eco/Som: pode produzir sons quando friccionada ou agitada
+Pena – 🌡️Ponto de ebulição: não se aplica, não é um material com ponto de ebulição definido
+Pena – 🌡️Ponto de combustão: Muito inflamável. Virará cinzas quando sua temperatura atinge 450ºC
+Pena – 🌡️Ponto de solidificação: não se aplica, não é um material com ponto de solidificação definido
+
+2.3.3- SEDA:
+Seda – 🌊Densidade: 1,25-1,34 g/cm³
+Seda – 🌡️Ponto de fusão: cerca de 215°C
+Seda – 🔛Elasticidade: alta. Pode se esticar até 25% de seu tamanho
+Seda – 🌀Flexibilidade: alta
+Seda – 💎Dureza: média  2,5 Mohs
+Seda – 💪Resistência: alta resistência à tração  1.3GPa
+Seda – 💧Casos de umidade: absorve facilmente a umidade do ar
+Seda – ⚖️peso: leve. 1,25 Deniers (Unidade que mede a espessura de fios de seda e outros filamentos). 25g por metro quadrado.
+Seda – ⚡Condutividade Elétrica: baixa
+Seda – 🔥Condutividade Térmica: baixa
+Seda – 🧲Magnetismo: não magnético
+Seda – 🎯Tensão: suporta alta tensão devido à sua alta resistência 
+Seda – 🔦Reflexão: reflete a luz de forma brilhante
+Seda – 👃odor: inodoro
+Seda – 👂Eco/Som: produz som abafado
+Seda – 🌡️Ponto de ebulição: não se aplica, pois se decompõe antes de ferver
+Seda – 🌡️Ponto de combustão: cerca de 300°C
+Seda – 🌡️Ponto de solidificação: não se aplica, pois não congela
+Seda – ⭕Fórmula: proteína fibrosa complexa, principalmente fibroína e sericina.
+> Curiosidades:
+– 9.000 metros de comprimento de seda, pesaria apenas 1 grama.
+
+
+
+2.4-	MATÉRIA PRIMA QUÍMICA INORGÂNICA:
+
+2.4.1- PLÁSTICO 
+Plástico Polietileno – 🌊Densidade: 93 a 115 Rockwell (Baixa)  — 0,943g/cm³ (PHDE/PEAD) 
+ Plástico Polietileno – 🌡️Ponto de fusão: 110-115°C 
+Plástico Polietileno – 🔛Elasticidade: Alta — — Quando mencionamos plástico, não há elasticidade, mas sim, plasticidade. Em base a diferença é a forma como algo é estressado e consegue voltar a sua forma original após o estresse acabar. Na elasticidade, isso acontece de uma forma harmônica, padronizada. Já na plasticidade, algo sofrendo estresse, após o estresse acabar, quase que imediatamente e abruptamente o material irá voltar a posição original. Igualmente se confere a capacidade de reação ao término do estresse. Elasticidade, ao término, volta quase que sendo a mesma estrutura antes do estresse. Já plasticidade, após o término, tende a levemente manter-se estressado por si só após o término da 🎯Tensão. (plasticidade então são materiais que não voltam 100% a sua forma original após a pressão) 1,08GPa  
+ Plástico Polietileno – 🌀Flexibilidade: Alta  
+ Plástico Polietileno – 💎Dureza: Baixa  2 Mohs
+ Plástico Polietileno – 💪Resistência: Baixa a moderada 14.4 a 566Mpa
+Plástico Polietileno – 💧Casos de umidade : Não absorve umidade facilmente 
+Plástico Polietileno – ⚖️peso: Leve  0,91g/cm³
+Plástico Polietileno – ⚡Condutividade Elétrica: Baixa  
+Plástico Polietileno – 🔥Condutividade Térmica: Baixa
+ Plástico Polietileno – 🧲Magnetismo: Não magnético 
+Plástico Polietileno – 🎯Tensão: 0.100 a 100Mpa ( Baixa a moderada) 
+ Plástico Polietileno – 🔦Reflexão: Opaco, difunde a luz 
+ Plástico Polietileno – 👃odor : Inodoro
+ Plástico Polietileno – 👂Eco/Som: Ecoamigável e produz som abafado
+ Plástico Polietileno – 🌡️Ponto de ebulição: Não tem um ponto de ebulição definido
+ Plástico Polietileno – 🌡️Ponto de combustão:340°C
+ Plástico Polietileno – 🌡️Ponto de solidificação: -80°C 
+Plástico Polietileno – ⭕Fórmula: (C2H4)n Ou Polimeração do etileno (CH2=CH2) 
+>	❓Curiosidades:
+1-	Definido como matéria orgânica polimeria sintética 
+2-	Existem muitas categorias de plásticos, tal qual PVC, LDPE/HDPE, Saran, Teflon, Isopor, PET, etc. 
+
+2.4.2- VIDRO:
+Como o vidro é um material amorfo, ele não tem um 🌡️Ponto de fusão ou solidificação bem definido. O ponto de amolecimento é usado como uma medida aproximada de sua temperatura de transição vítrea.
+Vidro Comum Float – 🌊Densidade: 2,5 g/cm³
+Vidro Comum Float – 🔛Elasticidade: Baixa elasticidade  
+Vidro Comum Float – 🌀Flexibilidade: Baixissima flexibilidade em condições sólidas. Já em Tg é muito maleável e soldável.
+Vidro Comum Float – 💎Dureza: 5,5 na escala Mohs
+Vidro Comum Float – 💪Resistência: Baixa resistência a impactos e choques térmicos
+Vidro Comum Float – 💧Casos de umidade: Não é afetado pela umidade
+Vidro Comum Float – ⚖️peso: 2,5 kg/m²/mm de espessura
+Vidro Comum Float – ⚡Condutividade Elétrica: Isolante elétrico
+Vidro Comum Float – 🔥Condutividade Térmica: Baixa condutividade térmica. 
+Vidro Comum Float – 🧲Magnetismo: Não é magnético
+Vidro Comum Float – 🎯Tensão: Alto módulo de ruptura. Choque térmico, friagem elevada diante de rápido aquecimento ou ao contrário, gera a ruptura.
+Vidro Comum Float – 🔦Reflexão: Alta reflexão de luz
+Vidro Comum Float – 👃odor: Inodoro
+Vidro Comum Float – 👂Eco/Som: Baixa absorção sonora
+Vidro Comum Float – 🌡️Ponto de ebulição: Ao invés de ponto de combustão, materiais amorfos cristalinos ou semi-cristalinos como o vidro, apresentam ponto de temperatura de transição vítrea  (Tg). O vidro possuí um Tg de 520 - 600ºC.
+Vidro Comum Float – 🌡️Ponto de combustão: não se encaixa
+Vidro Comum Float – 🌡️Ponto de solidificação: Sólido em temperatura ambiente. Porém, quanto mais calor, mais maleável pode ser o vidro, tal calor precisa estar próximo de 1.500ºC
+Vidro – ⭕Fórmula: Composto por óxidos metálicos, como silício, alumínio, magnésio, cálcio, sódio, potássio e outros, que são fundidos juntos para formar uma mistura amorfa. /// (SiO2)[maior], (Na2CO3), (CaCo3)
+
+2.4.3- SILICONE (taxado como borracha no /qitens) 
+Silicone – 🌊Densidade: 1.10 a 1.50 g/cm³ - Baixa a Moderada
+Silicone – 🌡️Ponto de fusão: -70 a -45 °C – Baixo
+Silicone – 🔛Elasticidade: Alta elasticidade e plasticidade.  
+Silicone – 🌀Flexibilidade: Alta, é mais flexível em condições de frio
+Silicone – 💎Dureza: 25 a 65 Shore A – Baixa a Moderada
+Silicone – 💪Resistência: Boa resistência à tração, rasgo e abrasão
+Silicone – 💧Casos de umidade: Boa resistência à umidade
+Silicone – ⚖️peso: Leve  1.50 g/cm³ 
+Silicone – ⚡Condutividade Elétrica: Baixa, bom isolante eslástico.
+Silicone – 🔥Condutividade Térmica: Baixa
+Silicone – 🧲Magnetismo: Não magnético
+Silicone – 🎯Tensão: 2 a 10 Mpa – Baixa
+Silicone – 🔦Reflexão: Alta
+Silicone – 👃odor: Inodoro
+Silicone – 👂Eco/Som: Baixa emissão de ruído
+Silicone – 🌡️Ponto de ebulição: 100 a 300 °C – Moderado
+Silicone – 🌡️Ponto de combustão: 370 a 630 °C – Moderado
+Silicone – 🌡️Ponto de solidificação: -65 a -25 °C – Baixo
+Silicone – ⭕Fórmula: R2SiO, onde R é um grupo orgânico como metil, fenil ou vinil.
+
+2.4.4- TINTA 
+Tinta Acrílica – 🌊Densidade: Geralmente varia entre 1,2 a 1,8 g/cm³.
+Tinta Acrílica – 🌡️Ponto de fusão: Não tem um ponto de fusão definido, pois é composta por uma mistura de substâncias.
+Tinta Acrílica – 🔛Elasticidade: Possui uma boa elasticidade, o que a torna resistente a rachaduras e descamação. 
+Tinta Acrílica – 🌀Flexibilidade: É bastante flexível e pode se adaptar bem a superfícies irregulares. 
+Tinta Acrílica – 💎Dureza: Tem uma dureza moderada, mas pode ser ajustada pela adição de outros componentes. 
+Tinta Acrílica – 💪Resistência: É resistente à água, à luz solar e a produtos químicos comuns. 
+Tinta Acrílica – 💧Casos de umidade: Pode ser afetada pela umidade, especialmente se aplicada em condições de alta umidade ou em superfícies úmidas.
+Tinta Acrílica – ⚖️peso: Geralmente é leve, com uma densidade média de cerca de 1,4 g/cm³.
+Tinta Acrílica – ⚡Condutividade Elétrica: Tem baixa condutividade elétrica.
+Tinta Acrílica – 🔥Condutividade Térmica: Tem baixa condutividade térmica.
+Tinta Acrílica – 🧲Magnetismo: Não tem propriedades magnéticas.
+Tinta Acrílica – 🎯Tensão: Tem boa resistência à tração e à compressão.
+Tinta Acrílica – 🔦Reflexão: Geralmente tem uma reflexão moderada, mas pode variar dependendo da cor e da textura.
+Tinta Acrílica – 👃odor: Tem um 👃odor leve, mas pode variar dependendo da marca e da composição.
+Tinta Acrílica – 👂Eco/Som: Não tem propriedades especiais em relação ao som ou ao meio ambiente.
+Tinta Acrílica – 🌡️Ponto de ebulição: Não tem um ponto de ebulição definido, pois é composta por uma mistura de substâncias.
+Tinta Acrílica – 🌡️Ponto de combustão: Pode variar dependendo da composição, mas geralmente tem um ponto de combustão acima de 200°C.
+Tinta Acrílica – 🌡️Ponto de solidificação: Não tem um ponto de solidificação definido, pois é composta por uma mistura de substâncias.
+Tinta Acrílica – ⭕Fórmula: A fórmula pode variar dependendo da marca e da composição, mas geralmente inclui um polímero acrílico, pigmentos, cargas, solventes e aditivos.
+>	❓Curiosidades:
+Plástico 
+
+2.4.5- TNT
+-- Substância química explosiva exotermica: trinitrotolueno (TNT) 
+> Formulação: covalente obtido através da reação de nitração exaustiva do tolueno com  HNO3 e H2SO4 (éter, acetona, Benzeno, Piridina) 
+> Cor comum nos itens: Substância Incolor. Fumaça cinza clara. 
+> 🌊Densidade: 227,3 g/mol (massa molecular)  
+> 🌡️Ponto de fusão: 1- 80,7°C. 1- Ponto de ebulição: 240°C
+> 🔛Elasticidade:
+1- Não há elasticidade em explosivos. Considere então, ser um fator medindo a velocidade. > Velocidade: 7.000m/s ou 25.200KM/h
+> 💪Resistência(suporte): 
+ - Ácidos podem corromper a substância inviabilizando suas propriedades explosivas. 
+> 💧Casos de umidade:
+- a substância não é um bom solúvel em água 
+> ⚖️peso: 
+1,650g/cm³ sólido, 1,40g/cm³ líquido 
+>	⚡Condutividade Elétrica, 🧲Magnética, 🔥Térmica:
+1- elétrico: Eletricidade em forma de calor pode ativar. 🧲Magnetismo como forma de pressão pode ativar. Temperatura alta pode ativar. 
+> 🎯Tensão:
+ - A pressão atmosfera medida em KPa de 1 selo explosivo é de 50KPa (suficiente p quebrar concreto armado). A cada selo/TNT somado explodido ao mesmo tempo, este número aumenta em +5, sendo, 80KPa possível a destruição da maior parte dos materiais mundanos. Essa pressão de 60KPa é no ponto inicial exato da explosão, e a cada metro, 6KPa são perdidos (assim aos 10 metros se totaliza a 0KPa).
+> 🔮Refração:
+ A luz emitida pode chegar por 1 segundo luz, a uma potência de 5mW (5 mega watts///5 milhões de watts). Causa uma cegueira imperceptível de 1 segundo a quem olha ao momento, e clareia tudo a até 10 metros. 
+> 🔦Reflexão:
+ - Nas explosões, a reflexão se diz a capacidade da pressão da explosão se atenuar-se comparado aos diferentes ambientes que são explodidos/aos quais a explosão de choca. Ambientes ao ar livre/céu aberto, uma reflexão mínima, a bomba não se acentua. Em quartos fechados, e/ou em ambientes mais densos(como um ambiente preenchido com fumaça mais densa que o oxigênio), existe a reflexão, o que faz a pressão aumentar, potencializando em alguns KPa a pressão da explosão. Ambientes fechados com janelas e portas abertas, podem ser um ressalvo para diminuir a intensidade da reflexão. (Para entender melhor ainda a reflexão explosiva, imagina um lago cujo joga uma pedra, e há ondas que se dissipam da pedra até longe dela. Diminua a dimensão deste lago, as ondas formada pelo impacto da pedra, irão se encostar nas paredes, e, ao invés de seguirem seu caminho se dissipando, batem nas paredes e volta em direção aonde a pedra caiu, tornando ainda maior as outras ondas que estavam indo em direção às paredes) 
+> 👃odor: Apesar de não dar para reconhecer uma explosão ser desta substância, é possível saber que a explosão se proporcionou desta substância através de um fraco 👃odor que fica expalhado ao local da explosão por cerca de uns 10 segundos. 
+> 👂Eco (som):
+1- O som da explosão, não é capaz de silenciar outro som, porém, é capaz da explosão atenuar-se sobre outro som mais fraco, tornando o som mais fraco quase que imperceptível. Não é uma barreira de som, é uma mesclagem de ondas sonoras. 
+2- Ao explodir, os itens com este reagente químico, que são o selo explosivo e bomba de gelo, o som chega a 100 decibeis.
+ - Explosivos, neste RPG, sofrem variação de potência regulamentada. Isso significa, que um selo explosivo, tem um alcance de raio de 5 metros. 2 selos explosivos não fará ser 10 metros, mas sim, apenas +1 metro, ficando 6 metros. Igualmente funciona assim com o som, porém, +20db a  cada explosivo. — Explosão de 1 explosivo = 100dB, 2 = 120dB, 3 = 140dB, selos 4 = 160dB, 5 = 180dB...
+3- O som é como um estrondo, estrondos não são tão facilmente reconhecidos de um para outro. 
+> ❓Curiosidades:
+ - Quanto mais ligações de nitrogênio numa molécula, mais explosivo este algo é.
+ - Calor execivo e/ou atrito intenso resulta na expansão do material.
+ - A reação de combustão é estritamente exotermica (significando ser uma reação (ação iniciada consequentemente de uma outra ação) à energia de ativação (uma energia externa interagindo com a energia interna/própria do reagente), consequentemente liberando calor de suas energias internas, numa transferência de energia provenientes de seu interior ao destino final exterior. Sendo essa explicação de exotermico, num distante sinônimo, combustão.   -   De forma mais resumida ainda, um ambiente perdendo calor, e, seu exterior/seu ambiente a sua volta, sendo aquecido até além da temperatura que o interior ‘desligado’ se estava antes)
+ - Quanto maior a concentração de oxigênio, maior a taxa de combustão
+ - Em quanto explosões a céu aberto, se comportam com uma liberação de onda de choque, explosões subaquáticas liberam bolhas que se deslocam pelo fluído.
+ - Apesar do raio de destruição ser de 5M, após estes 5 metros, em +5M, ou seja, até 10M de distância da explosão, ainda se pode sentir a onda de choque como uma pressão no local, junto a um aumento de temperatura de 250°C até o último metro que seria a 10M de distância da explosão de 1 TNT, cujo a cada 1M de distância, é perdido 25°C de calor. O calor de  250°C paira por menos de 1 segundo, igualmente a pressão se pressão na velocidade do som. Mas, nestes 10 metros atingidos, os últimos 5 sofrem 2 segundos de calor, os primeiros 5 metros permanecem num calor de +10°C por 4 segundos.
+ - Veremos um rápido gráfico da pressão em KPa e seus efeitos: 1KPa = trinca vidros. 10KPa = dobra placas de metais sem rompe-las, 20KPa = falhas em concreto. 30KPa = Danos sérios a estruturas de aço. 50KPa = Dano severo em concreto armado. 80KPa = Dano a maioria das construções.
+
+
+
+2.5- Matéria não metal:
+
+>	2.5.1 – AÇO:
+	Aço – 🌊Densidade: Alta — varia dependendo do tipo de aço, mas geralmente é em torno de 7,8 g/cm³. Ou 40,00kcal/m.h°c
+	Aço – 🌡️Ponto de fusão: varia dependendo do tipo de aço, mas geralmente está entre 1.370°C e 1.520°C.
+	Aço – 🔛Elasticidade: 195GPa possui alta elasticidade, o que permite sua deformação sem quebrar, retornando à forma original quando a força é removida.
+	Aço – 🌀Flexibilidade: é relativamente rígido, mas pode ser flexionado sem quebrar, dependendo do tipo de aço.
+	Aço – 💎Dureza:  geralmente é elevada, de 50 na escala RockWell C
+	Aço – 💪Resistência: tem alta resistência mecânica e é utilizado em diversas aplicações industriais, desde a construção civil até a fabricação de peças automotivas e ferramentas.
+	Aço – 💧Casos de umidade: pode oxidar em contato com a umidade, formando ferrugem.
+	Aço – ⚖️peso: é relativamente pesado, devido à sua densidade. 7,8g/cm3
+	Aço – ⚡Condutividade Elétrica: pode ter boa ou má condutividade elétrica, dependendo do tipo de aço e da presença de impurezas.
+	Aço – 🔥Condutividade Térmica: possui boa condutividade térmica.
+	Aço – 🧲Magnetismo: pode ser ferromagnético, dependendo do tipo de aço e do seu tratamento térmico.
+	Aço – 🎯Tensão: é capaz de suportar elevadas tensões mecânicas sem se deformar ou quebrar.
+	Aço – 🔦Reflexão: tem baixa reflexão à luz visível.
+	Aço – 👃odor: não tem 👃odor característico.
+	Aço – 👂Eco/Som: possui propriedades acústicas, podendo ser utilizado em construções que exigem isolamento acústico.
+	Aço – 🌡️Ponto de ebulição: o aço é uma mistura de elementos e não tem um ponto de ebulição definido.  
+	Aço – 🌡️Ponto de combustão: o aço não é inflamável.
+	Aço – 🌡️Ponto de solidificação: o aço é uma liga metálica e não tem um ponto de solidificação definido.
+	Aço – ⭕Fórmula: a fórmula química do aço não é definida, pois ele é uma liga metálica composta por ferro e outros elementos, como carbono, silício, manganês, entre outros.
+	❓Curiosidades: O Aço pode vir a ficar mais forte que diamante caso receba um tratamento chamado Jominy, cujo se diz a Temperabilidade, aquecer ao máximo algo e rapidamente resfria-lo em água ou óleo, ficando mais duro a cada processo detste.
+
+
+2.5.2- FIBRA DE CARBONO 
+Fibra De Carbono – 🌊Densidade: 1,75-1,95 g/cm³. – 2.000 kg/m³
+Fibra De Carbono – 🌡️Ponto de fusão: 3650 °C
+Fibra De Carbono – 🔛Elasticidade: 220-590 GPa
+Fibra De Carbono – 🌀Flexibilidade: Baixa
+Fibra De Carbono – 💎Dureza: Altíssima (tanto quanto diamante ou resis lvl4). 3.000MPa
+Fibra De Carbono – 💪Resistência: Alta resistência à tração, compressão, flexão, fadiga e impacto.
+Suporta 4.728 newton-metros, em quanto aço suporta apenas 1376.
+Fibra De Carbono – 💧Casos de umidade: Baixa absorção de umidade
+Fibra De Carbono – ⚖️peso: Leve
+Fibra De Carbono – ⚡Condutividade Elétrica: Condutividade elétrica alta na direção das fibras
+Fibra De Carbono – 🔥Condutividade Térmica: Baixa condutividade térmica – 100 W/mK
+Fibra De Carbono – 🧲Magnetismo: Não magnético
+Fibra De Carbono – 🎯Tensão: Elevada resistência à tração
+Fibra De Carbono – 🔦Reflexão: Baixa reflexão
+Fibra De Carbono – 👃odor: Inodoro
+Fibra De Carbono – 👂Eco/Som: Produz som agudo e metálico
+Fibra De Carbono – 🌡️Ponto de ebulição: Não se aplica, é composta de carbono
+Fibra De Carbono – 🌡️Ponto de combustão: Não tem ponto de combustão definido, mas queima a altas temperaturas em presença de oxigênio.
+Fibra De Carbono – 🌡️Ponto de solidificação: sólido em temperaturas ambiente 
+>	❓Curiosidades: possui várias utilizações, que vão desde usinas de produção de energia até a fabricação de joias. Tal qual DIAMANTE (Presente no /r10) que é composto por praticamente 100% carbono puro.
+- O carbono também é considerado um dos elementos mais importantes de todos, pois dele, é composto as moléculas para criação da vida
+
+
+
+2.5.3 — PÓLVORA NEGRA
+Pólvora - 👁️Aparência: Grãos minúsculos de coloração preta a cinza. 
+Pólvora - 🌊Densidade: 1,4g/cm³
+Pólvora -🔛 Elasticidade: N/A
+Pólvora - 🌀Flexibilidade: N/A
+Pólvora - 💎Dureza: Fraca
+Pólvora -💪 Resistência: reativo a choque, calor e fricção 
+Pólvora - 💧Casos de umidade: A pólvora é altamente higroscópica, o que significa que ela absorve umidade do ar facilmente. Isso pode afetar negativamente sua estabilidade e eficácia. Solúvel 
+Pólvora -⚖️ Peso: Contém apenas 0,4% a mais que o peso da água (1g/cm²)
+Pólvora -⚡ Condutividade Elétrica: Não conduz, mas explode. 
+Pólvora -🔥 condutividade Térmica: Alta 
+Pólvora -🧲 Classificação magnética: baixa
+Pólvora -🎯 Tensão: Em caso de tensão, vira pó. Em casos de maiores tensões e pressões, explode. 
+Pólvora - 🔦Reflexão: Baixa
+Pólvora -💣 Reatividade: Sua energia de explosão, produz 10,6 megajoules por quilograma (o TNT libera 4,7 e gasolina 47,2) 
+Pólvora - 👃Odor: Característico, pode ser sentido de media distância por humano comum. 
+Pólvora - 👂Eco/Som: Quando queimada, a pólvora produz um som característico, conhecido como relincho (sibilância). Não é isolante acústico 
+Pólvora -🌡️ Ponto de ebulição: Se decompõe antes 
+Pólvora -🌡️ Ponto de combustão: Altamente inflamável. 430°C
+Pólvora -🌡️Ponto de solidificação: Sólido em temperatura ambiente 
+Pólvora -🌡️ Ponto de fusão: Se decompõe antes 
+Pólvora -⭕ Fórmula: KNO3 (nitrato de potássio) + C (carvão) + S (enxofre).
+Pólvora -❓ Curiosidades: uma variedade de aplicações, incluindo armas de fogo, fogos de artifício, mineração e explosivos militares. É fabricada com fórmulas e granulações específicas para diferentes finalidades.
+— Seu uso em armas de fogo revolucionou a guerra, tornando possível disparar projéteis a distâncias muito maiores e com maior eficácia do que armas anteriores.
+— pólvora é classificada como "baixo explosivo" devido à sua taxa de decomposição relativamente lenta e, consequentemente, baixa potência explosiva. "Explosivos baixos" deflagram (ou seja, queimam) em velocidades subsônicas, enquanto "explosivos altos" detonam produzindo uma onda de choque supersônica. Logo, é mais adequada como propulsor.
+— A pólvora não é mais usada em armas modernas, nem é usada para fins industriais, devido ao seu custo.
+— A pólvora não queima como uma reação única, portanto os subprodutos não são facilmente previstos. Um estudo mostrou que produzia (em ordem decrescente) 55,91% de produtos sólidos: carbonato de potássio, sulfato de potássio, sulfeto de potássio, enxofre, nitrato de potássio, tiocianato de potássio, carbono, carbonato de amônio e 42,98% de produtos gasosos: dióxido de carbono, nitrogênio, monóxido de carbono, sulfeto de hidrogênio, hidrogênio, metano, 1,11% de água.
+— A pólvora negra é adequada para tiros de festim, sinalizadores e bombas de efeito moral. A pólvora negra também é usada em fogos de artifício para o elevar as cargas explosivas, em foguetes como combustível e em certos efeitos especiais.
+— Como visto acima, a combustão converte menos da metade da massa de pólvora negra em gás. Parte dele é ejetado, desperdiçando força de propulsão, sujando o ar e geralmente sendo um incômodo (revelando a posição de um soldado, gerando névoa que atrapalha a visão, etc.) Parte disso acaba como uma espessa camada de fuligem dentro do cano, onde também é um incômodo para tiros subsequentes e causa de emperramento de uma arma automática. Logo, procure soprar o cano das armas, limpar e deixar resfriar sempre.
+— No RPG, é usado uma mistura de 65% Pólvora negra e 35% Pólvora sem fumaça, resultando em armas com disparos com menos fumaça do que armas antigas e maior força de explosão. Não é um propelente sem flash (logo, disparos emitem breves flashes de luz)
+
+
+
+2.6— MATÉRIA SEM FAMÍLIA PERIÓDICA
+
+2.6.1 — HIDROGÊNIO
+Hidrogênio - 👁️Aparência: Gás incolor que brilha roxo em estado de plasma. 
+Hidrogênio - 🌊Densidade: 0,09kg/m³
+Hidrogênio -🔛 Elasticidade: N/A
+Hidrogênio - 🌀Flexibilidade:N/A
+Hidrogênio - 💎Dureza: N/A
+Hidrogênio -💪 Resistência:N/A
+Hidrogênio - 💧Casos de umidade: Não reage com umidade - insolúvel 
+Hidrogênio -⚖️ Peso: em forma gasosa, contém 1/15 do peso do ar. 
+Hidrogênio -⚡ Condutividade Elétrica: semi-isolante 106 S/m 
+Hidrogênio -🔥 condutividade Térmica: É o gás com a maior condutividade térmica. 0,1815 W/(m·K)
+Hidrogênio -🧲 Classificação magnética: Diamagnetico 
+Hidrogênio -🎯 Tensão: Ao sofrer pressão de 209 Pa a 23 K, pode se tornar líquido. 
+Hidrogênio - 🔦Reflexão: A luz age como no ar. 
+Hidrogênio - 👃Odor: Inodoro
+Hidrogênio - 👂Eco/Som: Não barra o som, se propaga
+Hidrogênio -🌡️ Ponto de ebulição: -250°C
+Hidrogênio -🌡️ Ponto de combustão: 500°C
+Hidrogênio -🌡️Ponto de solidificação: - 260°C
+Hidrogênio -🌡️ Ponto de fusão: -260°C
+Hidrogênio -⭕ Fórmula: Gás diatômico H2
+Hidrogênio -❓ Curiosidades: É o elemento mais abundante no universo, compondo 75% da massa do universo 
+— Pode ser usado como combustível de foguetes, por ser altamente inflamável
+— Concentrações acima de 4%, caso expostas ao oxigênio, são explodidas, liberando surpreendentemente uma explosão quase invisível, de luz ultravioleta.
+— Seus usos vão desde a fabricação de combustíveis, ácidos, até óleos, Manteigas, amônia, metanol, hidrogênio líquido, crioginia, supercondutividade, fissao nuclear, bomba, tinta luminosa, etc.
+— A energia solar se baseia em hidrogênio.
+— TODO GÁS NÃO OXIGÊNIO, PODE TRAZER ASFIXIA caso respirado.
+— Ao misturar H2O2, se obtém o PERIOXIDO DE HIDROGÊNIO. Ou, ÁGUA OXIGENADA, líquido incolor que serve como clareador, antisséptico, máscara de beleza, corrosivo. Sua ingestão e inalação pode causar morte. A água oxigenada é usada em investigações policiais - perícias criminais, identificando resíduos orgânicos em alguma região (adicione Perioxido de hidrogênio em um local que ache que havia um corpo. Caso havia, a água oxigenada irá oxidar e se decompor). Igualmente para identificar resíduos de ferro.
+— Nosso sistema imune pode produz peróxido de hidrogênio como agente antibacteriano
+— Catalaze, enzima intracelular diretamente ligada à decomposição do Perioxido de hidrogênio, é ligada ao envelhecimento. Mutações genéticas com superdosagem de catalaze, é capaz de previnr o envelhecimento, assim vivendo por mais tempo.
+— MUITOS outros compostos podem ser feitos com hidrogênio, tão interessantes quanto os já citados, como água oxigenada, combustível, etc.
+
+
+2.6.2 — LUMINOL
+Luminol - 👁️Aparência: Pó cristalino branco 
+Luminol - 🌊Densidade: 1,4g/m³
+Luminol -🔛 Elasticidade: N/A
+Luminol - 🌀Flexibilidade:N/A
+Luminol - 💎Dureza:N/A
+Luminol -💪 Resistência:N/A
+Luminol - 💧Casos de umidade: Sensível a umidade. Se degrada é perde suas propriedades caso diluído. 
+Luminol -⚖️ Peso: N/A
+Luminol -⚡ Condutividade Elétrica: semi-isolante
+Luminol -🔥 condutividade Térmica: Isolante
+Luminol -🧲 Classificação magnética: Não magnético, não atraente. 
+Luminol -🎯 Tensão:N/A
+Luminol - 🔦Reflexão: Em estado líquido, há refração da luz
+Luminol - 👃Odor: Odor característico
+Luminol - 👂Eco/Som:  Em estado líquido, retém gradativamente o som
+Luminol -🌡️ Ponto de ebulição: Se decompõe antes de entrar em ebulição 
+Luminol -🌡️ Ponto de combustão: 500°C
+Luminol -🌡️Ponto de solidificação: Sólido em temperatura ambiente 
+Luminol -🌡️ Ponto de fusão: 320°C
+Luminol -⭕ Fórmula: C8H7N3O2 
+Luminol -❓ Curiosidades: USADO EM INVESTIGAÇÃO policial - perícia criminal para detecção de ferro (há ferro no sangue) mesmo em ambientes limpos, é possível passar a luz deste material por perto. Caso haja sangue, resíduo orgânico, o resíduo, literalmente, começará a brilhar.
+— A curiosidade de cima também se aplica a sangue vivo. Se seu sangue ficar muito próximo a esta luz, suas veias começarão literalmente a brilhar, gerando a chamada químioluminescência. O ferro brilha numa luz azul fluorescentes ultravioleta. Logo o ferro age como um catalisador na hemoglobina, acelerando a reação da água oxigenada com Luminol, aproveitando sua incandescência. 
+— Pode ser usado como luz de emergência.
+
+
+
+*SEÇÃO: VIDA*
+
+
+1- A posse da vida aqui se diz a aqueles personagens que passaram pelo treinamento avançado, entraram oficialmente no RPG, oq significa que não são NPC (personagens comprados, não jogáveis em lutas ou sagas). 
+1.1- Entenda "primeiro indivíduo" como dono "Falso/novo" do corpo. "Segundo indivíduo" como o corpo de algum jogador em si. "Terceiro indivíduo" como o dono original do corpo 
+
+2- Todo aquele indivíduo que terminou o treinamento básico, foi registrado, está sujeito a:
+ 2.1 - Morrer (permanente) 
+ 2.2- Ser riscado (ou seja, ser considerado inativo financeiramente) 
+ 2.3- Ser banido 
+ 2.4- Ao evadir do RPG, ter o nome retirado do registro após 3 dias 
+ 2.5- Ao ter o nome retirado do registro, não tem mais certidões de itens, propriedades, times, contratos e nem nada. 
+ 2.6- Ao ladino que evadiu, voltar, poderá ter tais dados citados na regra acima 2.5, porém, somente com comprovações das propriedades que teve 
+
+ 3- Todo aquele personagem de jogador, que perder posse de seu próprio corpo morto, através do acordo "Roubo de corpo morto"
+
+3.1 - Cenar: O jogador sem seu corpo, não precisará cenar quando o corpo de tal, for inserido em atividades em ON. 
+
+ 3.2- Evasão: Caso terceiro jogador evada, cujo era jogador que perdeu seu próprio corpo, o nome do mesmo é retirado do registro bancário. Sendo assim, quem ficou em posse do corpo alheio do jogador que saiu, terá que armazenar em sua ficha o dia cujo nome do jogador foi retirado do registro bancário. 
+
+3.3- Registro: O nome do personagem morto roubado, será excluído do registro bancário. 
+
+4- Todo aquele personagem de jogador, que perder posse de seu próprio corpo vivo, através do acordo "Roubo de corpo vivo"
+
+4.1- Cena: O jogador sem posse de seu personagem, deverá cenar por ele mesmo, sempre que o jogador com a posse do personagem roubado, botar ele em tarefas. Não cumprir, pode gerar multa e até banimento do jogador sem corpo que não cumprir.
+
+4.1.1- Obrigações:
+
+Jogador cujo seu personagem é posse de outro jogador, caso não consiga participar de um ato ON, qualquer outro jogador do rpg, até o juiz, poderá ser escolhido pelo juiz/supervisor/guia, para interpretar o corpo cujo dono original ainda incluso no rpg, não conseguir jogar 
+
+4.2- Evasão do jogador: Jogador que perdeu seu corpo evadir, ao corpo vivo ter ficado com outro jogador, será o novo proprietário que deverá escolher quem cenar 
+
+4.3- Evasão do dono do corpo: A evasão do sujeito que era dono de um corpo alheio, fará com que o corpo alheio cujo era o "falso dono", suma do RPG. Mesmo caso sujeito com corpo alheio, volte ao rpg, todos seus corpos que havia roubado, serão resetados. 
+
+4.4- Registro:
+  O personagem cujo teve seu dono trocado, continuará no registro, porém, com o nome riscado e em itálico. Mas isso, SOMENTE em quanto o antigo dono cujo era original, permanecer no RPG. Caso dono original saia do rpg, o nome do personagem que não é mais dele, também sairá do registro bancário, significando que o dono novo, não poderá subir a patente, nível, exp do mesmo. 
+
+5- Todo aquele personagem de jogador, que perder posse de seu próprio corpo vivo ou morto, através de um contrato
+
+5.1 - Cena:
+
+5.1.1 - Obrigações:
+ > Os envolvidos devem tratar o contrato com seriedade, não descumprindo nunca os tratados. 
+> O dono novo, toda vez que for levar o corpo alheio para alguma atividade, deve citar isto no relatório da partida/luta. E o juiz, deverá citar quantas lutas restantes o corpo ainda tem antes de ir ao hospital (caso morto, não tem tal limite de 3 atv) 
+
+5.2 - Evasão do dono original:
+ > Dono original de um corpo cujo perdeu seu corpo e deu para um outro jogador, caso o primeiro citado sair: 1- Personagem sairá do registro bancário. 2- Dono "falso/novo" deve citar na ficha o dia que o nome do personagem que possui a mais, foi retirado. 
+
+5.3- Evasão do dono não-original:
+ > Nesta circunstância, caso o dono original ainda esteja no RPG, sem nenhum corpo, e quem ele passou seu corpo tenha saído do rpg, o contrato é anulado e o corpo voltará ao dono original. 
+> Caso dono não original, e original evadirem, o contrato é anulado e igualmente o corpo deixará de existir. 
+
+5.4- Registro:
+  > O nome de personagens que foram 'doados' através de um contrato, ficará riscado e em itálico, e continuará no registro desde que o jogador que era dono original, continue no RPG. 
+ > Caso dono original evada do RPG, o nome de seu personagem perdido será retirado do registro, significando a impossibilidade de subir de patente, ryos e EXP. 
+
+6- Todo aquele personagem de jogador que perder posse de seu próprio corpo temporariamente em uma partida
+
+6.1 Cena>
+ O novo dono temporário, deve cenar em terceira pessoa os atos do corpo que temporariamente está controlando. 
+
+6.2 Obrigações >
+ No momento em que alguém controla temporariamente o corpo de outro alguém, isso pode ser feito sob 2 circunstâncias. 
+  1- O corpo está sendo controlado contra vontade. Neste caso, controlador pode fazer tudo com o corpo, exceto quebrar regras (leis pode). 
+ 2- Caso corpo não tenha sido "enfeitiçado", e de alguma forma, se reconciliou de ser manipulado por outro, o personagem terá que ter atitudes somente que ele mesmo já naturalmente teria, seguir seus ideias, princípios, manias, habilidades etc. 
+
+6.3 Registro >
+  Deve ser registrado que em algum momento da partida/luta/missão, houve manipulação de corpos alheios. Citar os turnos, e um breve resumo sobre o motivo e o que isso gerou tanto ao corpo como ao jogador que não cenou e o que cenou. 
+
+-=-
+
+7- Todos jogador que contiver posse de um corpo de jogador alheio através do acordo "Roubo de corpo morto":
+
+8- Todos jogador que contiver posse de um corpo de jogador alheio através do acordo "Roubo de corpo vivo":
+
+9- Todos jogador que contiver posse de um corpo de jogador alheio através de um contrato:
+
+10- Todo aquele jogador que contiver temporariamente posse de corpo de um personagem de jogador alheio, seja com marionete base, ou forma de manipulação livre do outro personagem:
+
+-=-
+
+11- Quando jogador tem poçe de um personagem de jogador alheio, e este jogador alheio também tem posse de um outro, isto não muda. Condizendo então que para o primeiro indivíduo controlar o terceiro citado, deverá por em batalha o segundo citado também.
+
+-=-
+
+CONTINUAÇÃO:
+
+
+
+
+-=-
+
+12- Cena:
+
+12.1- dono original interpretando:
+
+ 12.1.1> O dono original de um corpo, pode interpretar em seu próprio corpo, mesmo não sendo mais dono de si mesmo. 
+
+  12.1.2> Quando?: Isso quando o dono tiver perdido seu personagem através do acordo "Roubo de corpo vivo". Nestes casos, quem roubou, botará o personagem em qualquer atividade ON q o dono novo quiser, e então, o dono original/antigo, deverá participar da atividade que o 'ladrão' colocou seu corpo que agora pertence a tal ladrão. 
+
+ 12.1.3> Como?: O jogador original pode fazer o que quiser, como se estivesse cenando sendo dono de si mesmo. Pode atacar quem quiser caso não tenha acordos contra, e tudo mais. Porém, invalidez ainda são aplicadas, tal qual proibido suicídio em lutas (partida é liberado). 
+
+12.2.4 Poderes e Não-poderes
+   O corpo poderá realizar todos seus poderes caso o dono original intérprete a si mesmo. 
+
+12.2- nem dono original, nem do papel, interpretando, mas sim, tercrceiros (casos de roubo:
+   Terceiros, como Juiz, ou alguém que o próprio juiz/interpretador/guia da atividade ON escolher, podem comandar para que um terceiro, intérprete um corpo cujo dono foi alterado. 
+
+  12.2.1 Quando?:
+  Isso, quando o corpo tiver se afastado/perdido de seu dono principal/original, através do acordo "Roubo de corpo Vivo", e então, o dono do corpo original, OU evadiu do RPG, Ou não pode realizar no momento uma atividade que o ladrão fez o corpo começar a cumprir. 
+
+12.2.2 Como?: o terceiro que não for o dono original, nem o dono do papel, este que for cenar no corpo de outro normalmente por pedido de algum juiz, DEVE CENAR EM TERCEIRA PESSOA, tal qual um interpretador de Bijuu, porém, ao invés de bijuu, um corpo. 
+   Outra regra, é de que o interpretador, deve tentar ao máximo, ter atitudes que o corpo vivo interpretado naturalmente teria. Tal qual, se o dono original cenava com seu personagem em forma calma, o terceirizado que for cenar tal corpo, deve tentar manter atitudes calmas.
+
+12.2.3 Consequência:
+  O terceirizado que cenar por um corpo alheio que não lhe pertence, receberá o dinheiro da partida no lugar do dono original ou do dono do papel. 
+
+12.2.4 Poderes e Não-poderes:
+   O corpo poderá realizar Fascínios cujo a patente tanto do corpo, como do controlador, tem em comum. Tal qual corpo Noumin, Controlador Workinn: Só poderá usar jutsus Noumin do corpo (elementais/kkg). 
+Outro exemplo; Corpo Maxinn, Controlador Workinn: corpo só realizará Fascínios de Noumin até Workin. 
+    Caso controlador e corpo tenham elementos, Ker/Har diferente, não há problemas, corpo pode realizar. Agora, caso o corpo tenha jutsus/Fascínios comprados e Fascínios de emprego, somente se o controlador também tiver tais mesmos poderes, poderá fazer com que o corpo cumpra tais poderes. 
+
+12.3- dono por papel interpretando:
+  12.3.1 Quando?:
+ O dono de um corpo que virou dono por papel, ou seja, através de um CONTRATO DE HERANÇA dando o corpo do dono original passando ao dono por papel, poderá cenar exclusivamente como seu novo personagem. Mas claro, ainda seguindo a regra 12.2.3 (/r10 - seção vida) 
+
+12.3.2 Como?: 
+  O dono por papel, poderá cenar de qualquer forma, seja primeira pessoa, em segunda pessoa, etc. Mas deve tentar manter os hábitos exclusivos da personalidade do personagem interpretado. 
+- PARA QUE isso seja possível, importante ressaltar que o personagem alheio só será interpretado por você dono novo/por papel, em primeira pessoa, caso o personagem alheio tenha entrado na partida estando presente na ORDEM explícita no portal. Ou seja, apenas avisando previamente que cenará até 3 ações alheias de um outro indivíduo no portal. Caso o corpo alheio não esteja no portal, leia 12.5 ou 12.4 da seção vida /r10. 
+
+12.3.3 Poderes e Não-poderes:
+   O corpo poderá realizar todos os Fascínios Ker/Har e elementais do corpo. Além de Fascínios de emprego como medicinais ou anbu. 
+ - Não poderá usar Fascínios comprados, a não ser que o dono que esteja controlando o corpo, também tenha tal Fascínio que fará o corpo usar. 
+
+12.4- dono por papel interpretando como ferramenta (marionete):
+   > O dono de um corpo alheio pode controlar um corpo alheio, em sua mesma cena/rodada/mensagem que o corpo do jogador também cenar, através do uso de uma marionete. 
+
+12.4.1 Quando?: Isso, quando o mesmo citar ter levado e/ou invocado o corpo alheio e de alguma forma, tê-lo aderido ao item da loja "Marionete Base". Isso pode ser feito com corpos: Pegos através do acordo "Roubo de corpo vivo", "Roubo de corpo morto", "Contrato de herança", "Presenteamento de corpo" 
+
+12.4.2 Como?: Então o corpo alheio já acoplado a marionete base, o dono original simplesmente pode ligar fios de energia espiritual de seus dedos até a marionete, controlando-a de longe como qualquer outra marionete. 
+
+12.4.3 Poderes e Não-poderes:
+   Nestes casos, o dono da marionete poderá realizar todos os Fascínios Ker/Har e elementais do corpo. Porém, não poderá forçar a marionete a fazer Fascínios Comprados/adquiridos do emprego como medicinais ou anbu. 
+
+12.5- Dono interpretando por visão:
+  Isso significa o dono NARRANDO em sua própria cena, os atos de seu corpo alheio. 
+
+12.5.1 Quando?>
+ . Quando o dono do corpo alheio já leva o corpo alheio que esteja Vivo, obtido pelo Contrato de Herança, até a arena junto a si, isso já formata para que até o final da luta, o dono do corpo alheio intérprete o corpo alheio, através de uma narração, citando o que o original vê o corpo alheio fazendo, em sua própria cena. 
+
+12.5.2 Como>
+  Se é uma interpretação de narração, logo, deve interpretar o ato do outro como em terceira pessoa. Ou até mesmo reservar um espaço em sua cena exclusivamente para citar os feitos do corpo alheio, sendo cumpridos como orientações do dono do corpo. 
+
+ - Igualmente a usar uma marionete, os atos que uma rodada tem, deve conter no máximo 3 ações. Isso significa que caso o personagem do dono ladrão fazer 2 ações, o personagem cujo dono é um alheio "ladrão", deve fazer no máximo 1 só ação. 
+
+12.15.3 Poderes e não-poderes>
+
+   Os Fascínios usados também são baseados na regra 12.4.3 da regra /r10 seção Vida. 
+
+13- Em casos sobre a regra 12.2.3 da seção vida - /r10, há como burlar o ato de terceiros ou dono por papel, ter que cenar corpos alheios, com a exata personalidade que o corpo alheio tinha.
+
+ 13.1 Um deste caso, é caso o corpo alheio tivesse feito menos de 2 partidas e/ou lutas e/ou missões, e pela baixa quantia de cenas, ser difícil notar a personalidade em poucas atividades on, assim, o interpretador deve dar uma personalidade e seguir esta personalidade sempre que for interpretar tal boneco alheio.
+
+13.2- Ou, caso haja uma história validada (faça partidas para validar histórias), cujo personagem sofreu algo traumatizante, lavagem cerebral, sentimentos intensos, experiências e aprendizados duros... Enfim, por estes meios e outros, é possível declarar uma personalidade que você deseja ao personagem alheio, ou até ao seu próprio.
+
+14- Você também deve tentar manter sua própria personalidade, de seu personagem original, após apresentá-la validamente em atividades em on. Só mude sua personalidade de acordo com a regra 13.2 da seção Vida da caderneta: /r10
+
+15 - Torneios:
+  - Um dono de um corpo 'não-seu', pode cadastrar o corpo 'não-seu' em eventos e torneios, SOMENTE caso quem levou o corpo, também leve a si mesmo, ou seja, o dono leva o corpo alheio e seu próprio personagem.
+
+
+16- Fascínios:
+  > Esclarecendo que quando um terceiro interpreta um corpo não-seu, em uma margem geral, ele Não pode fazer o corpo realizar, Fascínios de tais requisitos:
+
+16.1- Fascínios comprados (Só pode fazer corpo usar, caso interpretador também tenha) 
+
+16.2- Fascínios obtidos de emprego (Corpo só usa se interpretador tb já tiver tal Fascínio)
+
+16.3- Fascínios da patente do corpo (somente caso o controlador for da mesma patente ou superior. Caso seja patente menor que do corpo, realizará só patentes menores. Caso dono seja de patente maior e personagem menor, só Fascínios da patente menor também)
+
+17- Um corpo dado de presente a alguém, o recebidor terá posse do corpo como se fosse um corpo obtido por Contrato de Herança.
+
+18- É proibido presentear alguém com corpos em Reinos com leis.
+
+19- É proibido presentear seu próprio corpo a outro. Apenas pode repassar um corpo que um indivíduo já tem a mais, e este indivíduo entrega este corpo a mais para um outro indivíduo
+
+20- Em torneios, eventos e talvez até missões, o dono do corpo alheio SEMPRE deve citar a informação "PROTAGONISMO", Com isso, dizer qual corpo/personagem, o dono do corpo interpretará como seu protagonista.
+  - Aquele corpo que não for protagonista, é arduamente IMPEDIDO de matar e morrer. Um co-protagonista até pode favorecer ATÉ UM CERTO PONTO a morte de alguém, ou a própria morte. Porém, proporcionar uma situação quase irreversível de morte a alguém ou a si mesmo, sem muita escapatória, ou seja, com ataques muito potentes, isso não pode e juiz está sujeito a invalidar.
+
+21- Ganhos:
+ Somente aquele que for marcado com protagonismo, receberá o valor da partida/luta/missão feita.
+  Ou seja, caso um dono Gennin, cadastre um corpo alheio Chunnin para virar Jounnin, e cite o corpo alheio que é Chunnin como protagonista, e este tal conseguir vencer o evento, quem receberá exp e ryos, e igualmente upará a patente de Workin para Maxinn, será o marcado como protagonista, e não qualquer outro.
