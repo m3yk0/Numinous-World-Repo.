@@ -1,0 +1,432 @@
+REGRAS GERAIS DO N.W.M-RPG
+
+*Seção: Regras gerais:*
+
+1 > Respeito a cima de tudo! 
+O objetivo aqui a fazer todos terem um jogo bom e que se sintam felizes em jogar. Não atrapalhe essa experiência, sujeito a ban ou multa). 
+
+2 >Não postar conteúdo +18
+Aqui não é lugar disso, existem menores de idade no grupo. Sujeito a ban permanente no primeiro ato. 
+
+3 > Use o Bot corretamente.
+Se for usar comandos do bot, use somente nos grupos que têm a ver com tais comandos. Exemplo: comando /Regras no grupo de regras, /recepção no grupo de recepção. Se não saber qual grupo usar, use os comandos no chat PV do bot. 
+(Usar o bot em grupos errados pode resultar em flood, que por consequência pode dar multa ou ban permanente). 
+
+4 >atualize correta e constantemente sua ficha. 
+Usar sua ficha desatualizada ou errada, além de não ser bom para você, também dificulta os demais a terem informações certas sobre você. (sujeito a multa de 2K/2EXP ou seu valor padrão de multa). 
+
+5 >Não trate outros como inferiores. 
+Todos aqui somos apenas pessoas que almejam por se divertir e jogar. Seu cargo no jogo ou na vida real não te faz superior, então não trate outros como inferiores. Risco de multa ou ban permanente. 
+
+6 > Sempre mande sua ficha antes das lutas. 
+(sua ficha é o que diz quem você é. O oponente deve saber com quem está mexendo antes de começar realmente a luta. Caso não tenha ficha (pode mandar até 1° turno), a luta pode ser invalidada). 
+
+7 > Cite corretamente seus itens.
+ Não esqueça de descrever (cenar) quais armas você está no começo da luta, se não, não poderá usá-las depois. 
+Não basta dizer quais são seus itens apenas na ficha. No primeiro turno, citar cada um dos itens que você tem, é fundamental. Caso contrário, não poderá usar itens que não citou.
+
+8 > lutas no PV (chat privado);
+Lutas no PV são inválidas.
+(Somente lutas nos grupos citados na regra abaixo são válidas, em gp de treino, apenas de desempenho é válida (às vezes, em raros casos, lutas podem acontecer em grupo missão e ser válido)). 
+
+9 > Onde pode lutar;
+Lutas poderão ocorrer em: cassino, grupo de treino, recôndito, grupo da sua vila, e arena, às vezes missão. Ou seja, cenas válidas que podem ganhar dinheiro por fazê-las podem ser realizadas em tais grupos citados. 
+(lutas válidas podem ocorrer apenas nos grupos cassino, recôndito, sua vila ou arena. Mas caso queira lutar com a presença de seus amigos sem ser em uma luta válida, pode fazer isso no grupo de treinamento). 
+
+10 > Relate que está incomodado.
+Qualquer assunto, qualquer ação que você não gostar, pelo mínimo que seja, chame um ADM.
+ O foco do grupo é harmônia, onde passem o mínimo de estresse possível. O mundo real já é muito frustrante, o virtual não precisa ser. 
+(Caso tenha algo te incomodando, faremos o possível para corrigir.) 
+
+11 > Só use Fascínios do nível de sua patente.
+(Não use Fascínios que você não tenha. Somente os entregues diretamente a você por um membro confiável, e desde que seja do seu clã (classe), são aceitos. Caso contrário, não. Risco de multa e invalidação ) 
+
+12 > somente 3 ações por rodada. 
+Ação = atacar/defender, etc., rodada = sua ação, conjunto de 3 ações de cada ninja. Turno = todos os ninjas terem feito sua rodada. 
+
+13 > lutas válidas em geral;
+ Lutas só são válidas as que têm juízes, ou somente se os ninjas envolvidos tiverem permissão a lutar sem juiz. 
+Uma luta sem juiz (que não tem direito de lutar sem juiz) não é contada no Ranking nem tem recebimento. Ainda que os envolvidos possam estar sujeitos à multa). 
+
+14 > descrição do fascínio. 
+Use a descrição exata do seu Fascínio, não escreva você mesmo. 
+(Caso você use descrição errada ou alterada, estará sujeito a invalidação de ação ou multa.)
+14.1: batalhas entre Maxinns ou juízes, não há necessidade de descrições. 
+
+15 >, em geral, o que conta como ação.
+Passar / pegar itens e se movimentar sem fascínios, não conta como ação. Pode fazer isso, e mais 3 das ações ainda. 
+(Tais coisas contam como movimento. Pode se movimentar o quanto quiser, desde que não faça ação de ataque, defesa ou algo que te dê vantagem maior por estar se movendo. (Desviar mesmo que sem Fascínios conta como ação)). 
+
+
+ 16 >,  o Líder e o Rei de sua Classe/Reino responde por sua Classe/seu Reino.
+Isso significa que, o Líder de Alguma classe receberá a quantia de 2.000 ryos para cada membro que entrar em tal Classe.
+O Rei ganha a quantia de 1.000 ryos para cada membro que entrar em seu sua Reino.
+Porém, a cada multa que um ladino recebe, além do próprio ladino, o Líder e Rei pagarão por isso também. Líder perde 600 e Rei perde 300 ryos pelo ato do ladino.  
+16.1: Somente Líderes e Reis nível 2 tem direito a tais recebimentos de entrada 
+
+17 >,  Líder e Rei responde por seus ladinos ll
+ Além da regra que faz líder receber por cada membro novo e pagar pelas multas deles,  o dirigente  também recebe pela evolução de um membro. Ou seja, sempre que um ladino subir de patente (1 > 2 > 3... ), o Líder da Classe do ladino recebe 900 Ryos, e o Rei do país que o ladino reside, receberá 500 ryos.
+17.1: somente Líderes e Reis nível 2 tem direito a tais recebimentos. 
+
+ 18 >,  Líderes, Reis e motivos de perda de dinheiro
+- Cada multa de ladinos de sua responsabilidade
+ = –1.000r para Líders e – 500 para Reis. 
+- Cada pedido de renegação (com ou sem motivo)
+= –1.000 para Líders e –500 para Reis.
+
+ 19 >,  Renegados precisam de motivos.
+Esse título quer dizer que:
+ Ninguém se renega de certa Classe/país/Reino por simplesmente não gostar dela, ou apenas "querer". 
+Pra ser Renegado, é preciso que algo tenha acontecido, e descrever tal motivo, tal como viu um amigo seu ser morto por um membro da Classe, aí sim, isso seria um motivo a se renegar.
+(com isso, a opção de se juntar a Kieta no grupo principal é retirada, e apenas com um motivo, o usuário poderá se renegar. Caso não tenha, terá que pagar uma  multa de nível 1 ou 2, por se renegar sem motivos. Feito isso, o usuário enfim poderá ser Renegado.
+
+ 20 >,  Renegados e seus motivos; 
+O que torna um motivo adequado ou não para poder se renegar? Claro, primeiramente, oque você deve fazer para se renegar, é querer. Dito isso, você pode querer muito, porém terá de esperar algum motivo justo para poder recorrer a esse ato. Tais motivos plausíveis são:
+- 1: Ver um colega morrer em luta contra um membro de sua Reino (morte permanente), (vale somente morte de alguém da mesma Classe, não mesmo país ou reino),
+- 2:  Ver injustiça, tal como seu Líder ou Rei dando dinheiro a outro membro sem motivos aparentes (empregos informais não são um motivo), 
+- 3: se casar com um renegado da sua Classe, isso conta como um motivo para uma maior aproximação social, poder se renegar e ir à Kieta
+- 4: Sua Classe ser fraca, ou seja, ninguém dele faz lutas, missões ou sobe de patente a pelo menos 1 mês. 
+- 5: Classe ou pais envolvido com práticas proibidas, tais como caçoar de membros, falar que é melhor que você ou outro membro de forma ofensiva, desrespeitar, fazer atos corruptos (quais), errados que quebram as regras do RPG, e também que quebram o /leis. 
+- 6: caso Líder ou Rei de seu Reino/Classe levou alguma multa direta durante seu período no jogo.
+- 7: Entre outros motivos. Claro, impossível citar todos e nem por não estar aqui quer dizer que um motivo não seja válido, pois podem haver demais motivos que você queira se renegar de sua Classe sem tal motivo estar nas regras. Neste caso, ADM analisará o caso.
+- 8: Seu Líder/Rei está off a 1 mês (sem mandar nenhuma mensagem),
+- 9: Seu Líder não te recepcionou quando você entrou na Classe, (bem vindo, não te disse p. Ir ao Reino, e nem pegar grimórios, ler desc ou retirar dúvidas com ele). Igualmente caso ao entrar em seu Reino, e tenha pedido ajuda, não tenha tido ajuda de ninguém em alguns dias. 
+- 10:  Você pediu conselhos básicos que sabia que seu Líder/Rei sabe, e também sabe que eles poderiam sim passar tais conselhos, mas negaram a você (tal como, como encontrar meus fascínios, como renegar, posso usar esse fascínio da Classe? etc…), 
+Caso não tenha um bom motivo mas queira muito, deverá pagar uma multa, após isso, poderá se renegar.
+
+ 21 >,  o valor padrão de multa é variável.
+Quem tem menos de 100K e menos de 100EXP o padrão de multa é –3K/–3EXP 
+Quem tem entre 100K até 200K e 200EXP até 100EXP o padrão de multa é –6K–6EXP
+ Quem tem entre 300K até 200K e 300EXP até 200EXP, o padrão de multa é –9K/–9EXP 
+Quem tem entre 400K até 300K e 400EXP até 300EXP, o padrão de multa é –12K/–12EXP 
+E assim vai… a cada +100K e +100EXP o valor da multa sobe de 3K/3exp em 3K/3exp, caso o valor de EXP e Ryos seja diferente (ex: 200K e 300EXP), então o valor padrão da multa vai ser compatível com isso, no caso multa de –6K/–9EXP).
+
+22 >,  Até quando receber por seu trabalho
+O recebimento por qualquer feito/trabalho, etc. deve ser feito até 3 dias após ter feito tal trabalho (ex: receber por treinar, ajuizar, tratar paciente, lutar etc), Após ter feito o trabalho 3 dias e não teve recebido por ele, não tem mais direito de receber.
+
+23 >,  multa do seu preço padrão quando nos remetemos ao termo “multa do seu preço padrão” ou algo do tipo, entenda que é sobre a regra em questão a cima (regra 21).
+
+24 >,  Conversas ilegíveis
+Use apenas Caracteres Casuais da tabela ASCII, contidos em teclado normal (como SwiftKey). Conversar com letras em caracteres que não sejam o padrão nem as formas padrões de formatação do WhatsApp (negrito, itálico, tachado, etc), se a caractere for uma letra mas não for da tabela ASCII pode resultar em multa, devido a você poder ofender em off alguém, estar quebrando alguma regra mas o ADM não saber pois não é possível ler corretamente.
+
+25 >,  legendas para conversas ilegíveis
+Seguindo a regra acima, você até pode usar caracteres diferentes no lugares de letras, porém, deve por uma legenda em baixo com letras usuais.
+
+26 >,  banqueiros ou quem autorizarem fichas incorretas serão punidos por multa lvl 1 ou 2.
+(isso é entendido como corrupção de dinheiro e abuso de poder. Pode perder o cargo ou levar multa).
+
+27 >,  Regra Básica sobre saída dos membros
+ Incentivar, sinuar ou induzir a saída de membros do N.W.M fazendo com que eles evadam ou desejem isto, é uma quebra de regra e está sujeito a multa ou remoção do grupo
+
+28 >,  Regra Básica sobre persuadir membros 
+Além de incentivar a saída de outros membros para fora do RPG, induzir os membros a entrarem em outros grupos, citar ou relacionar grupos concorrentes ou não das comunidades do RPG, e induzir tais membros para outros grupo que não sejam da rede N.W.M é um ato de corrupção de membros.
+
+29 >, Regra importante aos que esperam quebrar as regras ou atos sujos. 
+Algumas regras sérias, caso quebradas, estão sujeitas a penas além de multas ou remoção do grupo, mas também, outros métodos de ser penalizado sobre os atos imorais realizados aqui. Isso significa que um exemplo de ofensa de membros ou divulgar outros grupos, após sua saída do N.W.M você ainda será cobrado pelo ato imoral que fez, sendo penalizado não só por membros do RPG, mas todos seus parceiros da grande parceria da N.W.M e dos mais de 200 grupos aliados com mais dos 3.000 membros cadastrados e apoiadores da rede, caso você faça mal a rede, todos se revoltarão contra você, então todo cuidado é pouco quando se trata quebrar regras daqui.
+
+
+ 30 >,  Prefira nossa parceria a nossa rivalidade.
+Caso você queira divulgar grupos ou links no RPG, opte pela nossa parceria, ao invés de realizar métodos sujos e ter seu grupo ou projeto derrubado pela rede. Caso faça parceria, nós mesmos iremos divulgar seu projeto, será melhor para todos as partes, sendo assim, apoiamos que nossos membros criem projetos próprios tal como apoiamos e incentivamos a isto, em claro, métodos
+limpos.
+
+31 >,  Haja da forma que quer que os outros hajam com você.
+ Nossos sistemas proíbem absolutamente o envio de links seja de grupos do WhatsApp ou links de demais plataformas, dentro dos chats oficiais do RPG e privado dos membros. E igualmente há grupos terceiros sem quaisquer ligações com o N.W.M que muito provavelmente também contém esta regra Básica sobre proibir links e divulgações. Sendo assim, caso membros do N.W.M venham a divulgar o link do N.W.M em grupos alheios, seja para ajudar (como recrutar membros), ou seja para qualquer outro fim, o membro em questão tomará multa no seu valor máximo (E/OU -50K/-50EXP), além disso, dependendo dos fatos e do ocorrido, o membro que fez tal ato pode correr até mesmo o risco de ser removido dos sistemas do N.W.M (é esta a pena para 99% dos casos), então NÃO divulgue nossos links em outros grupos não permitidos! (motivos óbvios:
+ podem invadir nosso RPG, vir travazap dos outros grupos, xingamentos, entre outras coisas que pode levar o N.W.M–RPG. a falência).
+
+31 >,  (este aviso é para caso alguém tenha roubado as regras e postado em outro RPG. sem lê–las inteira, algum membro deste tal RPG. que leu inteiro, saiba que o adm do RPG. que você está, cometeu ato de furto e tais regras pertencem a um RPG. de 'meico' (nome semelhante ao original), alerte já os demais membros caso isso tenha ocorrido para tal criminoso que furtou, não tenha sucesso em um RPG. com coisas roubadas).
+
+ 32 >, Quando pode lutar com acordos 
+Novatos só podem lutar com acordos (com exceção de apostas/Reinos), Após seus pps terem ficado pelo menos 7 dias no RPG, Após isto, ladino pode lutar com qualquer acordo.
+
+33 >,  outros jeitos de ser renegado
+ Alguém pode ser um renegado com 5 jeitos:
+ 1– pagando multa e se tornando. 
+2– com motivo válido. 
+3– sendo expulso da Classe e indo para Kieta.
+ 4– escolher pp existente que desde sempre esteve em Kieta.
+ 5– voltar com um pp antigo seu que já era renegado.
+
+34 >,  Valores 
+Recriar, editar, alterar, clamar, etc. valores oficiais do N.W.M para se passassem como se de fato fossem oficiais, tal como uma notícia falsa dizendo que é uma notícia real e dizer que nós passamos tal notícia, entre editar informações, valores, etc. oficiais e atividades ligadas a essas resulta em pena variável (dependendo de como foi), desde 1K e 1EXP, até valor padrão de multa de alto nível + menos 100K/100exp e até remoção do N.W.M.
+
+ 35 >,  escolhas de alguém que evadiu 
+Quando ladino evade o RPG. e volta depois de um tempo, ele pode escolher iniciar em um novo pp, ou ir no seu pp antigo, porém seu pp antigo terá menos recursos. Ladino escolherá o que terá de seu pp antigo novamente. 
+1– exp, 2– dinheiro, 3– itens, 4– apenas pp sem suas coisas.
+ Novato então escolhe que quer ser seu pp antigo (que não foi morto mas sim que evadiu), e escolhe ficar com 1 destas 4 coisas para recomeçar sua jornada.
+
+ 36 >,  Expulsão de Classe/Reino/organização 
+Uma Classe, um Reino, ou uma organização/time, pode expulsar um ladino caso ele venha a se tornar indesejável em tal lugar com o card “/edn” (expulsão de ladino). 
+No card precisa conter as informações:
+ “nome e Classe” do ladino, “decisão” dizendo de quem foi a decisão de expulsar, “motivo válido” motivo pelo qual o ladino está sendo expulso, “trabalhou para” caso ele tenha sido expulso por trabalhar com outra organização, “agindo contra: ” citando a organização que o ladino agiu contra, e “confirmo” confirmação de que irá expulsar. 
+36.1 a parte “decisão” pode ser
+preenchida citando “maioria dos membros da organização (coloque o número, ex: 4/6)” ou “dono da organização (coloque o cargo: líder anbu, dono de time, Líder, Rei, etc)” e até mesmo ambas informações “expulso com decisão dos membros e do Líder”
+
+37 >,  Motivos para expulsão
+segundo a regra 34 organizações podem expulsar membros indesejados dela. Citando agora, alguns de tais motivos válidos:
+.1 infiltrado de outra organização
+.2 passar informações da organização para terceiros
+.3 ofender e ameaçar organização
+.4 planejar ataques contra a organização 
+.5 atacar a organização 
+.6 prejudicar diretamente ou indiretamente a organização que está expulsando o ladino 
+.7 não colaborar para organização 
+.8 e outros motivos que possam sim ser válidos sem estar escritos, desde que staffs concordem.
+
+38 >,  Provas nos motivos 
+É bom lembrar que independentemente de qual seja o motivo, o motivo deve ter provas, e elas devem ser passadas a staffs ou ADM ou Anbu. Ou seja, se achas que alguém é infiltrado, tal como trabalha para um mas favorece outro, deve conter provas, não importa a maneira de consegui–las, seja através de mensagens, de prints, de conversas fora dos grupos do RPG, de notas, de áudios, etc. Qualquer ação que mostre que o ladino de fato está agindo imoralmente contra a organização que ele habita, serve como uma prova. Mas claro, ela deve ser clara e o mais explicita possível para não deixar dúvidas se ladino é ou não é a favor da organização que habita.
+
+ 39 >,  Testemunhas e “advogados”
+ Ao expulsar ladino de algum lugar, ele pode recorrer a alguma testemunha que diga que na verdade, é a organização que está atuando contra ele, Além disso, ele pode nomear uma segunda ou terceira pessoa que possa falar bem dele para quem está querendo expulsar, de qualquer modo, o adm trabalhará como juiz para decidir se o ladino é ou não expulso. Além da vítima acusada ter testemunha e advogados, os próprios acusadores, também podem recorrer a testemunhas e advogados para provar que o ladino acusado deve de fato sair da organização.
+
+ 40 >,  Empenho 
+Para se conseguir pelo menos uma indicação na maioria dos cargos o ladino deve se mostrar relevante ao RPG, ajudando em empregos ou caso desempregado ao menos ajudar a redirecionar novatos ao gp de treinamento (com o meio oficial), já é visto como colaboração, e tais pequenas colaborações ficam marcadas em seu "currículo" de vida aqui dentro, facilitando (ou dificultando, caso não ajude), a ter melhores indicações.
+
+ 41>,  Níveis de Multas Toda multa tem uma classificação. O que seria tal classificação? Fácil, Isto nada mais é do que a intensidade e gravura da multa, ou seja, multas mais graves, de atos mais sérios, além de serem mais caras, também serão tratadas de algum outro jeito. Jás aqui, os níveis;
+-  41.1 nível 1: Os valores do nível 1:
+ geralmente não são contando “o valor de sua multa padrão’ (citado cerca das regras 21)” isso significa, que alguém com 300K/300exp, poderá pagar apenas –3k/–3exp em multas do nível 1, e não –9k/–9exp (que seria o padrão para alguém com 300).
+- 41.2 Nível 2:
+ São multas que normalmente seguem o valor padrão da multa de alguém.
+- 41.3 Nível 3:
+ São multas que normalmente seguem além do padrão de multa de alguém, seguem um adicional, e este adicional por ser até 20x o valor padrão da multa do mesmo (no caso do ladino com 300k/300exp, sua multa padrão seria –9k/–9e, e pode botar até 10x9 (até 20x seu valor padrão de multa), que daria cerca de –90k/90exp para quem tem 300k/300exp).
+- 41.4 Nível 4:
+ normalmente, multas do nível 4 são multas que vão até 50x vezes o valor padrão de multa de alguém (o ladino de 300, que o normal seria 9k/–9e, poderia perder até 450k/–450e).
+- 41.5 Nível 5:
+ O que faz uma multa se tornar nível 5, não é o seu valor. O que torna uma multa nível 5, é o fato de que ao tomar esta multa, a multa não irá para o pp (personagem), mas, sim, para o player/jogador. E isso é bastante pesado, significa, que caso o jogador queira suicidar o seu pp para que reinicie seu dinheiro e possivelmente saia do negativo, não dará certo. O novo pp do jogador receberá novamente a multa nível 5 que tomou em seu pp passado, e não importa quantas vezes morra, o único jeito de se livrar, é pagando de forma justa: Trabalhando, lutando, fazendo missões, recebendo transferência, etc…
+- 41.6 Nível 6:
+ O nível 6 é exatamente a mesma coisa que o nível 5, porém, os únicos meios do jogador pagar a multa em questão, é trabalhando e fazendo lutas e missões. Multas do nível 6, significa que transferência bancária não pagarão a multa do jogador, ou seja , para o ladino que tem 100K negativo, caso alguém faça uma transferência de 101K para o jogador multado, o valor sairá do saldo do transferidor, porém, não cairá no saldo do multado. O dinheiro ficará no “limbo”, e ninguém, nem multado nem transferidor verá tal dinheiro novamente. (Transferências de aniversário podem serem acatadas). 
+- 41.7 Nível múltiplo:
+ São multas que aderem mais de um nível diferente. 
+- 41.8 Nível Nulo:
+ São multas que de fato tem algum nível, mas devem ser passadas rápidas o suficiente que não da tempo de staff controlar e citar qual nível é, por exemplo, em casos de flood, staff dará a multa o mais rápido possível para o meliante em questão saber que está fazendo algo de errado, e nisso, ser rápido, pode não dar tempo para fazer os cálculos decidindo corretamente qual o nível da multa. 
+- 41.9 Nível 0:
+ O nível 0 é um nível cujo é definido, não pelo valor e peso da multa, mas sim, que ao um ladino receber uma multa nível 0, que pode ser variáveis ryos e exp, o Rei e Líder do ladino multado, não recebe penalidade junto ao ladino. (são multas de situações que houve erro no saldo do ladino, como um banqueiro botar mais ryos ou exp a um ladino sem ele de fato ser altorizado a receber).
+
+42>,  Multas por regras não–escritas 
+Há chances de alguém levar uma multa por algo que não está nas regras. Explicando melhor:
+ Sabemos que muitas coisas podem desfavorecer algo/alguém, considerando isto, não é possível alguém criar todas as regras do mundo citando que se alguém fizer isso, isso é isto, estará afetando algo/alguém. E já que não é possível escrever tudo que possa ser ruim, podem aparecer casos de pessoas fazendo algo ruim, que antes, sequer tínhamos ideia de que isto era ruim, pois nunca tinham hipoteticamente feito ou pensado tal coisa. 
+Porém, após tal coisa ser feita, este malfeitor realmente deve pagar pelo que fez, e ainda poderá ser penalizado, e após ser penalizado, a regra passará a existir. 
+Estamos constantemente aprendendo com a vida, e por isso, foi necessário a regra 42 que é esta, que alerta a você, que de algum jeito, você possa fazer algo ruim, e você pagará por isto, mesmo sem estar nas regras, caso este algo afete de algum jeito.
+
+43>,  intervir Staffs
+Intervir, atrapalhar, dificultar, etc., trabalhos staff, resultam desde multas até lvl5 a remoção da rede N.W.M.
+
+44>,  não acarretar
+não fazer trabalhos staff sem uma boa justificativa, pode resultar em penas.
+
+ 45>,  trabalhos staff para não–Staffs
+ as vezes, não–Staffs (quem não tem selo de mod, ou seja, não é staff oficial), pode ser convidado a fazer algum trabalho staff.
+
+46>,  um pouco sobre trabalhos para não-staffs
+Missões/trabalho staff para não-Staffs, nem sempre é algo pesado como fazer cálculos, escrever centenas de regras, passar por testes, etc. Entenda que trabalho staff é considerado tudo aquilo que ajuda o RPG, isso significa, que até mesmo dar opiniões, enviar mensagens
+antigas do grupo que adm não tem mais, até mesmo conversar, pode ser considerado um trabalho staff, ou seja, uma ação que os Staffs, ADMs queiram que ajude o RPG.
+
+47>,  benefícios de trabalhos staff
+trabalhos e missões staff ,para não–Staffs, podem além de ajudar o N.W.M, mas também acarretar uma grana a quem ajudou o RPG. Por pedido, e até indicação para se tornar um staff
+47.1 as recompensas por staff são sem EXP,  mas de 100 a 5.000 ryos (depende do trabalho feito), em maior parte, a recompensa é de 200 a 500 apenas. (OU TAMBÉM pode ser dado 5% do saldo do Ladino para ele mesmo após ajudar) 
+ 
+48>,  Conteúdo explícito em cenas 
+O RPG tem crianças de até 10 anos jogando, porém... Cenas explícitas não são proibidas. Mas deve seguir algo caso goste de cenas com gore, +18 etc., enfim... 
+– Sempre que for fazer uma cena com +18, sangue, gore, tortura, violência sanguinária, uso de drogas lícitas ou ilícitas, com muitos detalhes, AVISE.
+ – Jeitos de avisar, são; no topo de sua cena, a primeira caractere (até mesmo primeiro que a plaquinha ou Nick, etc), bote o emoji 🩸 e junto com o emoji de sangue, diga em aspas, o que sua cena contém. 
+Ex: "🩸(gore, +18, drogas ilícitas)" em seguida, com alguns parágrafos e linha em branco, pode começar a escrever a cena.
+
+49>,  Reinos e Classes Resetados
+ Quando uma Classe fica com 0 pessoas ela é resetada. Suas alianças e guerras são anuladas. Isso vale para Reinos também.
+
+
+ 50>,  Recôndito e coisas explícitas
+No grupo recôndito, o envio de imagens, gifs, áudios e etc., de conteúdo envolvendo +18, gore e etc., será MENOS rigoroso (mas ainda assim deve ser controlado).
+Em caso de imagem/gif, somente caso a imagem ou gif seja extremamente necessária para explicar algo da luta >, E Deve Ser SOMENTE ENVIADO JUNTO DE CENAS!!!< ou seja, somente lutadores poderão enviar tais coisas e somente caso faça sentido ter na cena, não vai mandar um gif do naruto transando com a Hinata caso na tua cena tu esteja apenas botando selos explosivos por aí. >, LEMBRE–SE que com coisas muito pesadas, você ainda poderá ser banido e/ou multado< 
+
+51>,  saiba o que mandar no recôndito
+Imagens/gifs 100% explícitos, ainda são proibidos. Caso mostre órgãos íntimos (peitos tá suave, eles não são órgãos sexuais, apenas são sexualizados demais), caso mostre gore de algo da real life (ou seja, apenas gore de anime, desenhos pode, da vida real, não), caso mande áudio gore (sons de pessoas, animais etc., sofrendo de verdade), tudo isso, pode resultar em ban temporário, ban permanente, ou multa até nível 4.
+
+52>,  MÉRITO:
+ — Mérito é o sistema de recompensação por contribuições às missões de bom desempenho. Há 3 formas de mérito:
+ 52.1– NPC:
+ Você que nunca fez nenhuma missão, é considerado tão padrão desnecessário quanto NPCs.
+52.2– Empoderado:
+ Você ficará neste mérito por um bom tempo, até fazer alguma U.M (Ultra Missão), como também de Rank maior que o seu, aí sim você virará...
+52.3– ELITE:
+ Neste mérito, você pode concorrer a ser um ANBU. E mesmo sem ser um anbu, os Elite tem as vantagens a seguir
+
+ 53>,  Vantagens da Tropa Elite:
+ — Você poderá fazer missões de todos os Rank
+— Poderá ser chamado para tarefas particulares
+— Poderá vir a ser um espião particular de seu país. Em outras palavras, um ANBU.
+— Caso seja Guia de missões, um Guia Elite, assim como um Guia Anbu, podem alterar até +5K ryos/+2EXP a recompensa de duas missões 
+— Você pode ser o representante, como vice–líder e até vice–Rei, de sua Classe ou Reino (claro, o líder/rei pode não lhe dar este cargo.  _Mas nada que matá–lo não resolva_  ).
+
+ 54>,  CONJURAÇÕES — Sempre que se conjura um fascínio, é necessário mandar a descrição dele em suas cenas, significando que você tem que no meio da luta, ler o seu grimório para fazer um Fascínio bem–sucedido.
+A diferença, é que qualquer um pode abandonar as descrições, memorizando os grimórios em seu próprio cérebro. Para isso, apenas faça uma partida (solo ou grupal), lendo seu grimório ponta–a–ponta junto a conjurações deles.  Após isso, você botará em sua ficha, na área "BACKGROUND", que decorou o grimório tal. Desta forma, não precisará citar seu nome ou descrição em cena. Entretanto, se O JUIZ não entender/identificar qual Fascínio você conjurou sem ter botado a descrição de tal, ele poderá:
+ 1–pedir para você refazer a ação, enviando a descrição (lutadores novos). 2– Anular a sua ação (aos lutadores avançados, como considerados Workin).
+
+ 55>,  Conjurações: ARQUÉTIPO 
+— Contudo, pela regra 54, você pode criar um Arquétipo (palavra gatilho), que pode ser tanto o título de seu Fascínio, como qualquer outra palavra. Ao você fala–lá em voz alta/baixa, ou pensamento, poderá conjurar o fascínio ligado ao Arquétipo(nome), dado por você.
+
+ 56>,  ARQUÉTIPO:
+— Os Arquétipos devem serem postos em sua ficha, na área "Arquétipo". Listando com título e descrição, cada arquétipo. No caso, o Arquétipo "Calor dor infernos", poderá fazê–lo lembrar exatamente de como realizar algum fascínio, como Brandus – Bola de fogo (descrição). Ou seja, você basicamente levará a descrição em sua ficha, e ao falar, ou pensar no nome (arquétipo, título), referente a algum fascínio, ou Ação, a ação/Fascínio/movimento/algo, terá sido realizado, conforme foi descrito em sua ficha o que significa, faz. SE USAR ARQUÉTIPOS COMO AÇÃO/MOVIMENTO, NÃO ESQUEÇA DOS PRINCÍPIOS. <No grupo Forja, da para comprar arquétipos>
+
+57- VALORIZAÇÃO DAS PARTIDAS
+— Toda partida tem um valor padrão por concluí-la efetivamente. Assim como as lutas e missões, também possuem um valor básico para os ganhadores e perdedores. 
+— O valor básico das partidas/lutas/missões é mostrado na descrição do grupo Banco ou na descrição do grupo Mundo/On, ou na descrição do grupo Missões. 
+— Esses valores básicos podem aumentar conforme:
+1. Uso de Acordos:
+A quantidade dos chamados "Acordos Valentes" em um portal faz com que o valor básico de realização para todos os envolvidos suba. 
+Acordos "Passivos" são acordos que não interferem no lucro do portal. E "Acordos Desvalentes" são acordos que desvalorizam o portal ou até impedem qualquer lucro. 
+2. Possíveis bens com valor estimado que podem ser obtidos durante as partidas em cenas:
+Como roubar dinheiro, encontrar um tesouro ou ganhar um item caro — isso agrega valor ao personagem, por consequência é dito como um valor adicional pela partida também. Mas para isso, é necessário também acordos que permitam a validez disso (como Agarrar/Pegar Itens/GTA). 
+
+58- DESVALORIZAÇÃO DAS PARTIDAS
+— Assim como as partidas, lutas e missões podem ter bônus em seu valor básico por cumpri-las, também existem considerações que desagregam ou suprimem o valor. Aqui são as considerações que podem acatar um desabono aos envolvidos na partida:
+1. Acordos Desvalentes:
+Acordos desvalentes são acordos que diminuem o preço de cumprimento do Portal, como, por exemplo, "Livre de Parasitas" ou "Valor Inconcusso". 
+2. Desistência
+Uma desistência pode fazer com que o desistente não receba pela partida. 
+3. Infração de Demora
+Aqui a nova grande regra: As partidas, lutas e missões possuem 4 dias de prazo de conclusão. Ou seja, se alguém inicia uma partida, ela deve acabar em até 4 (quatro) dias. Passado este prazo, as partidas passam a desvalorizar para cada dia além destes 4. O percentual desta punição é destacado no grupo MUNDO/ON. Inclusive, não apenas a partida passará a valer menos, como o Julgador/Supervisor/Mestre-Guia também será punido por cada dia ultrapassado. 
+4. Inatividade (AFK) 
+Dentre ou fora o prazo de conclusão de partida (citado acima), TODO indivíduo que estiver envolvido no portal e que não conseguiu enviar nenhuma cena em um dia inteiro de demora (24h), será punido com uma Multa em seu valor Padrão Básico. Isso conta para julgador/supervisor que esteja em função de escrever alguma Situação também não o faça. 
+5. Roubo/perda
+Caso em ON em cenas do portal você seja roubado, gaste dinheiro ou realize ações que exigem pagamento (como atendimento médico), então o seu recebimento pessoal pela partida será afetado. Em caso de receber 3K por completar uma partida, mas nela perder (ser roubado ou gastar) 2K, simplesmente o valor de 3K diminuirá para 1K. Caso o valor gasto ou perdido seja maior do que o valor de cumprimento, você não receberá nada, apenas será "multado" ao valor que perdeu, isso no próprio relatório (/rlt) da partida um desabono em seu nome. 
+6. Invalidez
+Uma partida/luta/missão dada como inválida também é passível de ter seu valor de cumprimento abalado.
+
+59- COMO DEVO AMBIENTAR E DESCREVER A INFRAESTRUTURA DE MEU REINO EM MINHAS CENAS?
+— Para um RPG mais realista, é necessário um sistema que determine a infraestrutura de cada potência. Assim, criamos o conceito em viés da taxa de empregabilidade. Quanto mais trabalhadores num Reino, melhor é sua estrutura. O seu reino tem um quadro social precário caso os Ladinos de tal reino sejam vagabundos. As suas cenas indo ao hospital podem ser descritas como "um ambiente caótico, poucos funcionários, médicos perdidos, muita demanda, reclamações constantes e até pouca eficácia". Já, em um Reino com boa infraestrutura e bom Desenvolvimento, as cenas que remetem ao Quadro Social em tal recinto podem ser mais construtivas, como "Em meu reino todos se ajudam. As casas podem ficar destrancadas, não há roubo a domicílio. Bicicletas sem correntes e sempre dizem bom-dia ao passar."
+Esse sistema então ajuda a basear melhor em como cada jogador em divergência de onde se encontram. Consequentemente, haverá uma divergência Geopolítica e estrutural em cada local. Isso garante a linearidade do RPG, foca na problematização de cada enredo e impede que cada um escreva uma coisa diferente sobre um mesmo recinto. A permeabilidade de um mundo profundo, um RPG bem estruturado e educacional.
+— Na descrição dos grupos HOSPITAL, FORJA e LOJA, estão dispostos quantos funcionários em tais espaços existem no Reino, baseada na quantia de jogadores empregados em tais recintos. Por exemplo, existem 3 médicos no Reino da Folha, então este reino tem um índice 3x melhor do que os demais. O índice 0 zero indica uma má infraestrutura. 3x mais seriam, 3x mais funcionários para tratar de tudo, 3x mais efetividade e reconhecimento. 
+— o Índice de Desenvolvimento de cada potência é citado no Registro Bancário, visando a qualidade geral do Reino, independentemente do nível de infraestrutura do Hospital e Comércio do Reino, mas ditando a infraestrutura das moradias e da relação caótica ou pacífica dos residentes de tal recinto.
+
+
+~-__________________________________-~
+
+
+*Seção: Fichas*
+
+1- informações padrões na ficha "Meu Personagem":
+1.1 NÍVEL		 (0-5. Número original (não considerado) de da patente)
+1.2 PATENTE		 (Noumin, Workin, Maxin, Sennin, Supremo <Original, não considerado>) 
+1.3 NOME		 (Nick/número do WhatsApp/Discord/Plataforma > Forma de identificação do jogador controlador do personagem) 
+1.4 PP		 (Nome do personagem (deve ser idêntico ao do registro bancário. Para discrepância, use área nova "apelido") 
+1.5 CLASSE 		(Classe do personagem. Deve estar listada em /recepção) 
+ 1.5 REINO		 (Reino cujo PP pertence (Pode não ser o natural de nascença). Deve estar listado no /recepção) 
+1.6 RENEGADO?:		 (Sim/Não. Sim= Reino da Chuva) 
+1.7 EXP		(Qtia de EXP. Deve seguir o último registro bancário) 
+1.8 RYOS		(Saldo do pp. Deve seguir o último registro bancário) 
+1.9 ITENS		 (Itens e propriedades do PP (que comprou/ganhou validamente). Deve estar no registro de propriedades, ou ter print da compra/recebimento, ou 3 testemunhas)
+1.10 KER/HAR		(Citar Kerinous e Harinos que PP tem)
+1.11 TÉCNICAS (Técnicas da loja, da classe, da besta, da parasita, etc. Que PP tenha) 
+1.12 CARGOS		(Quais os postos e selos do personagem (Todos cargos do /r3 ou Desc. do banco, podem estar aqui. Todas as posições (como estar em time, ser casado, etc. Que tiverem selos, também devem estar aqui)) 
+1.13 fichas extras		(deve SEMPRE estarem inclusa na ficha principal) 
+
+2- informações opcionais nas fichas de PPs
+2.1 jeito, 
+2.2 desc. adicional (qualquer algo que queira aderir a mais) 
+2.3 emoji preferido
+ 2.4 Aparência (Aparência de seu personagem (tipo físico, altura, peso, cor, cabelos, transmissão como cansado/bem, gênero, etc) 
+
+3- informações extra, necessárias na ficha de pps (ou extras)
+3.1 RANK		(Veja desc. Do grupo Missões) 
+3.2 SELOS		(Selos do PP. Veja /termos e/ou desc do Banco e/ou Registro Bancário ) 
+3.3 BACKGROUND		(História do personagem. Conhecimentos, traumas, missões/partidas/lutas, conquistas/derrotas, vivência. Juiz/Supervisor/Guia podem fornecer Backgrounds generalizados após feitos em On) 
+ 3.4 TIMES/ORGANIZAÇÕES 		(Times que pp (personagem) está. Veja no Registro Bancário. Se Renegado, Organização=Kieta) 
+3.5 ESTADO FÍSICO 		(Diga as lesões que teve pelo acordo "Afeto Total" ou desastres moleculares. Cicatrizes, Fadiga, Aptidão corporal, possibilidades e impossibilidades do corpo, discrepâncias, etc) 
+3.6 JINCHUURIKI? 	(Sim/Não - PP têm uma Bijuu selada no corpo?) 
+3.7 NOMEADO? 		(Sim/Não - PP foi nomeado por algum Matador, como responsável de alguma Bijuu?) 
+3.8 CLASSE /ORGANIZAÇÃO COM BIJUU 		(Sua organização/classe/time têm posse de alguma Bijuu viva?) 
+3.9 QUAL/NOME BIJUU	 	(Caso Jinchuuriki, Nomeado e/ou Organização c/ Bijuu, diga qual ela(s) é(são)) 
+3.10 DATA DE ENTRADA		(Data que o personagem foi alistado, ou data que jogador escolheu/criou o personagem no grupo recrutamento) 
+3.11 HISTÓRICO		(listagem das últimas missões/partidas/lutas, listando também a condição médica ao final de cada uma delas, igualmente datas de passagens ao hospital) 
+3.12 PARASYTE		(Informações se personagem é ou não parasita)
+3.13 CARD DE INFORMAÇÕES LADINO (/CDIN)		(Tudo no /cdin é em potencial algo necessário de se estar na ficha principal de seu personagem) 
+
+4- Todas as fichas
+Existem 4 fichas no total, a 1 principal “Meu personagem” informações sobre seu PP(/pp).
+2 “Ficha Bijuu” informação pelas bijuus de sua classe (/fib)
+3 “Times” informações sobre seus times (/fit).
+4 "Ficha NPC" informações sobre seu NPCs (/mnpc). 
+5 "Ficha pets" informações sobre o companheiro dos Ladinos (/inu). 
+6 "Parasyte" informações Parasyte (/pp, seção fichas extra)
+7 "Card de Informação Ladino" informações completas. 
+Talvez possa haver outras além das citadas aqui. 
+
+5- Citar outras fichas
+Caso pp possua mais que sua ficha (ex: tenho ficha do pp + ficha bijuu) deve citar ela na categoria “Fichas Extras’
+
+6- mandar ficha de time
+Caso vá usar algum atributo ou item de seu time, bote a ficha do time (atualizada) no primeiro turno, e cena falando que levou tal item do time com você.
+
+7- mandar ficha de bijuu
+Caso for levar a bijuu de sua classe (ou você seja Jinchuuriki e pretenda usar seus poderes), em uma luta ou missão, além da sua ficha, deve mandar a ficha da bijuu (atualizada) para poder usa-la. Além disso, só é válido usar elas com o acordo "Bijuu". 
+
+8- Fazer plaquinhas como fichas
+para tornar suas "plaquinhas" como se fossem suas fichas, todas as informações inseridas nas fichas exceto a parte "Bio" devem ser acopladas as plaquinhas (É opcional botar parte “BIO”).
+
+9- plaquinha e ações
+caso use plaquinha como ficha, não deve mandar ela no primeiro turno junto com alguma ação, a não ser que seja sua vez.
+
+10- Bote na ficha suas feridas
+você pode adicionar informações extras em sua ficha, tal como nela, botar o seu estado: "bem" , "lutou 3x cm ferimentos sem ser curado" , "não tem um braço" , etc"
+Caso o personagem esteja bem não há necessidade dessa informação. Caso usuário esteja mal, deve alertar o juiz com ou sem a presença do oponente, e dizer que está ferido. Não informar pode gerar multas. 
+
+11 > Fichas erradas
+preencher de forma errada com valores errados as fichas é visto como roubo. 
+as fichas devem conter todas as informações corretas, legíveis e entendiveis. 
+11.1 Essa regra vale para Banqueiros  e Juizes/Guia/Supervisor também que marcar ficha inválida como válida. Isso resulta em multa ao meliante e multa e/ou rebaixamento de cargo ao juiz.
+11.2 Como erros acontecem, pode reenviar 2x uma ficha inválida, até o terceiro turno. 
+11.3 Usar as informações inválidas na cena (como itens que você provavelmente sabe que não tem, usar mais EXP do que tem no banco só porque têm na ficha), em quaisquer turnos, acata em multa imediatamente e anulação da cena, como também possível cancelamento da partida. Então o erro principal é não apenas ter uma ficha errada, mas também próprio indivíduo usar os tributos 'roubados'. 
+
+
+~-__________________________________-~
+
+*SEÇÃO: MÉTODOS DE ESCRITA DE CENA / CODIFICAÇÃO:*
+
+0- Aqui será citado os métodos de formatação ou codificação de cenas. Isto é, o método que o jogador irá escrever sua cena, e como irá expressar e ressaltar quais trechos do texto são 1- Ações (ação, movimentos, etc), 2- Falas (diálogos, gritos, leitura, etc), 3- Pensamentos (Colocações, interpretações tomadas pelo personagem de algum contexto, etc), 4- Trechos opcionais (Que podem serem anulados por juiz caso gere 'polêmicas') 
+
+*1-* Principal
+- Ações em: [ *Negrito*] 
+- Falas por: traço [ — Olá ]
+- pensamentos por: tio [ ~ penso logo existo ]
+- Trechos opcionais em: [ _itálico_ ]
+
+*2-* Leitura fácil
+- Ações :sem formatação [ ação ]
+- Falas por: traço e/ou aspas [ — "Olá"  ]
+- Pensamentos por: Tio e/ou itálico [ ~ _Penso logo existo_ ]
+- Trechos opcionais em: [ ```Mono espaçado ```]
+
+*3-* Personalizado 
+> Você deve preencher os trechos a seguir, e usá-los até o final da partida:
+- Ações em:  [ ] 
+- Falas por:  [ ] 
+- Pensamentos por:  [ ] 
+- Trechos opcionais em: [ ] 
+
+*4-* Paisagismo
+- Ações em: cercadas por símbolo ×: [ ×ação× ] 
+- Falas por: Traço + Emoji [— Olá 💬 ] 
+- Pensamentos por: Tio + Emoji [ ~  Penso logo existo 💭 ] 
+- Trechos opcionais em: símbolo ~>~ + ~<~ + _itálico_ [  _~>~ itálico ~<~_  ] 
+
+5- > SEMPRE que você for usar uma formatação Diferente da PRINCIPAL,  deves especificar, no início ou no final de todas suas cenas, qual codificação está usando. 
+Exemplo: Codificação: [Principal] 
+Ex.2: Formatação de cena usada: [Leitura fácil]
+Ex.3: Codificação: [Personalizado]
+- Ações:
+- Falas:
+- pensamentos:
+- Opcionais:
+
+
+
+
+                    ( /r1)
+.
+
+.
+
+.
+
+.
+onde?
